@@ -1,5 +1,16 @@
 [
   {
+    "title": "Quantum Mechanics on Lie Groups: II. Path Integrals",
+    "authors": [
+      "Mathieu Beauvillain",
+      "Blagoje Oblak",
+      "Marios Petropoulos"
+    ],
+    "summary": "We continue our study of quantum dynamics on a Lie group $G$, initiated in arXiv:2512.19840, by building the path integral that governs transition amplitudes in the Hilbert space $L^2(G)$. This relies on the proper handling of both a noncommutative momentum space and the presence of compact directions in $G$. We show that compactness can be handled through a sum over winding numbers in maximal tori of $G$, generalizing the similar sum commonly encountered for path integrals on a circle. As applications, we compute semiclassical approximations of propagators and partition functions of Euler-Arnold systems, up to (and including) two-loop order.",
+    "link": "https://arxiv.org/abs/2607.16029v1",
+    "published": "2026-07-17T15:01:45Z"
+  },
+  {
     "title": "Dynamic Universal Approximation via Signature Controlled Differential Equations",
     "authors": [
       "Tomás Carrondo",
@@ -40,14 +51,5 @@
     "summary": "In this paper we study the summability of solutions of some general forms of singularly perturbed linear ordinary differential and moment differential equations. We conclude that under some assumptions solutions of these equations are summable. The type of this summability depends on the specific equation. We also show the connection between some singularly perturbed moment ordinary differential equations and some linear moment partial differential equations. We apply this connection to describe summable and multisummable formal solutions of these singularly perturbed moment ordinary differential equations. Main techniques used to show these conclusions are based on Borel transforms, properties of solutions of moment partial differential equations and on the Cauchy integral formula together with integral representations of solutions of such equations.",
     "link": "https://arxiv.org/abs/2607.01532v1",
     "published": "2026-07-01T23:16:53Z"
-  },
-  {
-    "title": "Quantum Stokes matrices and quantum Riemann-Hilbert-Birkhoff maps",
-    "authors": [
-      "Xiaomeng Xu"
-    ],
-    "summary": "In this paper, we introduce quantum Stokes matrices for a noncommutative version of meromorphic linear systems of ordinary differential equations with a pole of order $p+1$. We prove that these quantum Stokes matrices satisfy natural quantum exchange relations. These relations allow us to interpret the quantum Stokes matrices as an associative algebra homomorphism, which may be viewed as a deformation quantization of the Riemann-Hilbert-Birkhoff map, regarded as a Poisson map, for meromorphic connections with a pole of order $p+1$.",
-    "link": "https://arxiv.org/abs/2606.31809v1",
-    "published": "2026-06-30T15:25:25Z"
   }
 ]
