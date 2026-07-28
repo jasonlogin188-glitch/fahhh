@@ -1,5 +1,27 @@
 [
   {
+    "title": "A Fixed-Point Construction of the Elementary Transcendental Functions",
+    "authors": [
+      "François Alouges",
+      "Giovanni Di Fratta",
+      "Alberto Fiorenza",
+      "Renato Fiorenza"
+    ],
+    "summary": "We present a unified fixed-point construction of the elementary transcendental functions, encompassing the real exponential, the complex exponential (sine and cosine), and the natural logarithm. Each function is characterized as the unique solution of a duplication identity established through the Banach contraction principle. These foundational identities are $e(2x)=e^2(x)$ for the exponentials, and $\\log(x^{2})=2\\log x$ for the logarithm. Because a direct iteration of these identities is numerically unstable, owing to local expansiveness at the target, the central idea transfers the analysis to a residual function, on which the operator becomes a strict contraction with an explicit convergence rate. Beyond its theoretical economy, which dispenses with differential equations and power series, this characterization translates into efficient algorithms for the machine evaluation of elementary functions: the underlying framework yields floating-point kernels whose accuracy and iteration depth are governed by the theoretical contraction rate. We also present a computational study showing that, in a throughput-bound vectorized regime, these kernels are competitive with standard production libraries, and in favorable configurations exceed them, with the sine--cosine kernel faster at every tested iteration depth. These implementations operate without lookup tables or memory traffic, an architectural advantage for modern high-performance and energy-efficient computing.",
+    "link": "https://arxiv.org/abs/2607.23196v1",
+    "published": "2026-07-25T13:18:22Z"
+  },
+  {
+    "title": "Symmetric Jacobi Polynomials on a Triangle and Their Spectral Algebra",
+    "authors": [
+      "Misael E. Marriaga",
+      "Miguel A. Piñar"
+    ],
+    "summary": "We study a family of symmetric orthogonal polynomials on the unit triangle associated with the weight \\[ w_{α,γ,κ}(x,y) = (xy)^α(1-x-y)^γ|x-y|^{2κ+1}, \\quad α,γ,κ>-1,\\quad α+κ>-\\frac32. \\] We construct the corresponding monic symmetric orthogonal basis on the simplex chamber and prove that its elements are eigenfunctions of a formally self-adjoint second-order differential operator \\(\\mathcal D_1^{α,γ,κ}\\). A pair of adjoint ladder operators yields a second operator of order two \\(\\mathcal D_2^{α,κ}\\) with the same eigenfunctions. We also obtain an explicit representation of the basis in terms of one-variable Jacobi polynomials and compute its squared norms. After passing to the elementary symmetric variables, we determine the full algebra of linear partial differential operators with real polynomial coefficients having the transformed polynomials as eigenfunctions. Every such operator can be written uniquely as a polynomial in \\(\\mathcal D_1^{α,γ,κ}\\) and \\(\\mathcal D_2^{α,κ}\\); consequently, this algebra is isomorphic to the real polynomial ring in two variables.",
+    "link": "https://arxiv.org/abs/2607.22751v1",
+    "published": "2026-07-23T14:00:26Z"
+  },
+  {
     "title": "Quantum Mechanics on Lie Groups: II. Path Integrals",
     "authors": [
       "Mathieu Beauvillain",
@@ -23,15 +45,6 @@
     "published": "2026-07-15T14:34:08Z"
   },
   {
-    "title": "On a Class of Hypergeometric Sums via Recurrences and Product Binomial-Harmonic Identities",
-    "authors": [
-      "Narendra Bhandari"
-    ],
-    "summary": "We study hypergeometric series with coefficients $a_n(α)=\\frac{(α)_n(1-α)_n}{(n!)^2},$ where $0< α< 1$. The main idea is to introduce a shift parameter in the linear denominator and consider $$ Φ_{m,\\varepsilon}(λ;α) = \\sum_{n=0}^{\\infty}\\varepsilon^n \\frac{a_n(α)}{n+m+1+λ}, \\qquad \\varepsilon\\in\\{1,-1\\}. $$ Expanding this expression in powers of $λ$ produces sums with denominator powers $(n+m+1)^{-K}$. We first discuss analytic interpolation in the denominator exponent and explain why positive integer exponents lead to terminating recurrences. Using Euler's hypergeometric differential equation, we derive a first-order recurrence in $m$ for $Φ_{m,\\varepsilon}$. Solving this recurrence gives finite reductions for ordinary and alternating sums, and coefficient extraction yields formulas for all positive denominator powers. The same framework also treats linear denominators $(dn+m+1)^K$ of arbitrary positive parameter by separating $m$ into residue classes modulo $d$. We then specialize the results to product-binomial cases, especially $α=1/R$ with $R=2,3,4$. Finally, we apply the same framework to harmonic-number sums by differentiating with respect to a lower hypergeometric parameter.",
-    "link": "https://arxiv.org/abs/2607.10135v3",
-    "published": "2026-07-11T05:49:28Z"
-  },
-  {
     "title": "$\\mathrm{L}^p$ bounds for parabolic Riesz transforms with rough coefficients: The case $1<p \\leq 2$",
     "authors": [
       "Khalid Baadi",
@@ -41,15 +54,5 @@
     "summary": "We establish the first results on $\\mathrm{L}^p$ bounds for Riesz transforms associated with non-autonomous second order parabolic differential operators in divergence form with bounded coefficients that depend measurably on all variables. In the case of complex coefficients, we identify the maximal open range of exponents $1<p \\leq2$ through the availability of $\\mathrm{L}^p$ resolvent bounds. This open range always contains the lower parabolic Sobolev conjugate of $2$ and the result is sharp in spatial dimension $n \\geq 2$. For real coefficients, we prove extrapolation to the full range. Our argument relies on novel space-time off-diagonal bounds based on two complementary geometries: parabolic cubes on small scales and regions modeled after the half-order time derivative of a parabolic Bessel potential on large scales.",
     "link": "https://arxiv.org/abs/2607.05181v1",
     "published": "2026-07-06T14:58:49Z"
-  },
-  {
-    "title": "Summability of formal solutions of some singular perturbations problems in differential and moment differential equations",
-    "authors": [
-      "Maria Książkiewicz",
-      "Sławomir Michalik"
-    ],
-    "summary": "In this paper we study the summability of solutions of some general forms of singularly perturbed linear ordinary differential and moment differential equations. We conclude that under some assumptions solutions of these equations are summable. The type of this summability depends on the specific equation. We also show the connection between some singularly perturbed moment ordinary differential equations and some linear moment partial differential equations. We apply this connection to describe summable and multisummable formal solutions of these singularly perturbed moment ordinary differential equations. Main techniques used to show these conclusions are based on Borel transforms, properties of solutions of moment partial differential equations and on the Cauchy integral formula together with integral representations of solutions of such equations.",
-    "link": "https://arxiv.org/abs/2607.01532v1",
-    "published": "2026-07-01T23:16:53Z"
   }
 ]
