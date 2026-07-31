@@ -1,5 +1,24 @@
 [
   {
+    "title": "Limit theorems for differential systems with multipoint boundary conditions in Sobolev spaces",
+    "authors": [
+      "Olena Atlasiuk",
+      "Vladimir Mikhailets"
+    ],
+    "summary": "The most general class of multipoint inhomogeneous boundary-value problems for systems of linear ordinary differential equations of arbitrary order $r\\geq 1$ is investigated, whose solutions belong to a given Sobolev space $W_p^{n+r}$, where $n\\geq 0$ and $1\\leq p\\leq \\infty$. The boundary conditions in these problems contain Caputo derivatives of fractional or integer orders, which may exceed the order of the differential system equations. Constructive sufficient conditions are established under which the solutions of these problems are continuous with respect to a parameter from an abstract metric space in the Sobolev space $W_p^{n+r}$.",
+    "link": "https://arxiv.org/abs/2607.28267v1",
+    "published": "2026-07-30T14:21:40Z"
+  },
+  {
+    "title": "Airy Turning-Point Asymptotics for Ramanujan's Entire Function $A_q(z)$",
+    "authors": [
+      "Yu-Tian Li"
+    ],
+    "summary": "Let $$ A_q(z)=\\sum_{k=0}^{\\infty}\\frac{q^{k^2}}{(q;q)_k}(-z)^k $$ be Ramanujan's entire function. We study it in the turning-point scaling $$ q=e^{-\\varepsilon},\\qquad z=\\frac{\\sqrt q}{4}e^{-\\varepsilon^{2/3}ζ}, $$ with $ζ$ in a compact subset of $\\mathbb{C}$. After an explicit exponential normalization, a direct coalescing-saddle analysis gives, uniformly on compact subsets, the expansion $$ \\operatorname{Ai}(ζ) +\\frac{\\varepsilon^{2/3}}{30} \\left(4ζ\\operatorname{Ai}(ζ) +ζ^2\\operatorname{Ai}'(ζ)\\right) +O_K(\\varepsilon). $$ Thus the first correction is explicit and comes with a quantitative remainder. For every fixed $n$, the same analysis locates the positive zero associated with the $n$-th Airy zero and proves that it is globally the $n$-th positive zero of $A_q$. Expanding the normalized $q$-difference equation recovers the Airy differential equation and confirms the scaling. An appendix records Morita's antisymmetric companion, whose normalized limit is $\\operatorname{Bi}$, together with a single-valued meromorphic descent of it. Numerical tables illustrate the normalization, the correction, and the zero formulas.",
+    "link": "https://arxiv.org/abs/2607.27504v1",
+    "published": "2026-07-29T22:38:50Z"
+  },
+  {
     "title": "Mimicking diffusion processes with differential equations",
     "authors": [
       "Rama Cont"
@@ -29,28 +48,5 @@
     "summary": "We study a family of symmetric orthogonal polynomials on the unit triangle associated with the weight \\[ w_{α,γ,κ}(x,y) = (xy)^α(1-x-y)^γ|x-y|^{2κ+1}, \\quad α,γ,κ>-1,\\quad α+κ>-\\frac32. \\] We construct the corresponding monic symmetric orthogonal basis on the simplex chamber and prove that its elements are eigenfunctions of a formally self-adjoint second-order differential operator \\(\\mathcal D_1^{α,γ,κ}\\). A pair of adjoint ladder operators yields a second operator of order two \\(\\mathcal D_2^{α,κ}\\) with the same eigenfunctions. We also obtain an explicit representation of the basis in terms of one-variable Jacobi polynomials and compute its squared norms. After passing to the elementary symmetric variables, we determine the full algebra of linear partial differential operators with real polynomial coefficients having the transformed polynomials as eigenfunctions. Every such operator can be written uniquely as a polynomial in \\(\\mathcal D_1^{α,γ,κ}\\) and \\(\\mathcal D_2^{α,κ}\\); consequently, this algebra is isomorphic to the real polynomial ring in two variables.",
     "link": "https://arxiv.org/abs/2607.22751v1",
     "published": "2026-07-23T14:00:26Z"
-  },
-  {
-    "title": "Quantum Mechanics on Lie Groups: II. Path Integrals",
-    "authors": [
-      "Mathieu Beauvillain",
-      "Blagoje Oblak",
-      "Marios Petropoulos"
-    ],
-    "summary": "We continue our study of quantum dynamics on a Lie group $G$, initiated in arXiv:2512.19840, by building the path integral that governs transition amplitudes in the Hilbert space $L^2(G)$. This relies on the proper handling of both a noncommutative momentum space and the presence of compact directions in $G$. We show that compactness can be handled through a sum over winding numbers in maximal tori of $G$, generalizing the similar sum commonly encountered for path integrals on a circle. As applications, we compute semiclassical approximations of propagators and partition functions of Euler-Arnold systems, up to (and including) two-loop order.",
-    "link": "https://arxiv.org/abs/2607.16029v1",
-    "published": "2026-07-17T15:01:45Z"
-  },
-  {
-    "title": "Dynamic Universal Approximation via Signature Controlled Differential Equations",
-    "authors": [
-      "Tomás Carrondo",
-      "Christa Cuchiero",
-      "Paul P. Hager",
-      "Fabian N. Harang"
-    ],
-    "summary": "We study signature controlled differential equations (Sig-CDEs), that is, path-dependent controlled differential equations (CDEs) whose vector fields factor through the signature map. Working on spaces of stopped Hölder paths, we develop an existence, uniqueness, and stability theory for general path-dependent CDEs, and translate these pathwise well-posedness criteria into conditions on the corresponding signature functionals. We then prove dynamic universality: simply parametrized Sig-CDEs approximate the solution path of any well-posed path-dependent CDE arbitrarily well, uniformly over bounded sets of controls and initial histories, with global variants obtained using weighted spaces. Within this framework, entire maps of group-like elements provide a specific class of Sig-CDEs. Using a new class of limiting tensor spaces, we recast Sig-CDEs as infinite-dimensional classical CDEs and prove their well-posedness via a gauge-type scaling argument, thereby establishing a principled way to lift generic path-dependent dynamics. Lastly, we study truncated Sig-CDEs as finite-dimensional differential equations on step$-N$ Lie groups under intrinsic conditions, that is, with well-posedness formulated in terms of the underlying group metric.",
-    "link": "https://arxiv.org/abs/2607.13886v1",
-    "published": "2026-07-15T14:34:08Z"
   }
 ]
