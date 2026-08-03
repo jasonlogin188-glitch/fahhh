@@ -1,5 +1,14 @@
 [
   {
+    "title": "Nonconcentration of eigenfunctions in Microlocal Kakeya-Nikodym norms: a phase space approach",
+    "authors": [
+      "Matthew D. Blair"
+    ],
+    "summary": "Previous works of the author and Sogge [BS17], [BS18] showed the significance of microlocal Kakeya-Nikodym averages in improving $L^p$ bounds on (approximate) eigenfunctions of the Laplacian in the high frequency limit. These averages are formed by taking the $L^2$ norm of an eigenfunction when localized in phase space to a small, frequency-dependent tube about a geodesic segment via a pseudodifferential operator. The former work showed that for values of $p$ beneath the Stein-Tomas exponent, $L^p$ norms are controlled by a supremum over these averages. The latter work then showed that when $(M,g)$ has nonpositive sectional curvatures, there is a logarithmic gain in the averages. In combination, these two works improved the $L^p$ theory for eigenfunctions over the universal bounds of Sogge in this geometric setting. In the present work, we develop sufficient conditions for improving these averages which are more general than nonpositive curvature. Instead our sufficient conditions are rooted in the dynamics of the geodesic flow on the tangent bundle, considering cases where the flow expands and contracts tangent vectors in at least some directions, e.g. partially hyperbolic flows. We make use of Gaussian wave packet (phase space) transforms on the manifold in order to fully appreciate the gain these hypotheses impart on the microlocal averages. In the process, we further develop Gaussian beam approximations to the wave equation in a coordinate invariant manner.",
+    "link": "https://arxiv.org/abs/2607.28882v1",
+    "published": "2026-07-30T22:53:13Z"
+  },
+  {
     "title": "Limit theorems for differential systems with multipoint boundary conditions in Sobolev spaces",
     "authors": [
       "Olena Atlasiuk",
@@ -38,15 +47,5 @@
     "summary": "We present a unified fixed-point construction of the elementary transcendental functions, encompassing the real exponential, the complex exponential (sine and cosine), and the natural logarithm. Each function is characterized as the unique solution of a duplication identity established through the Banach contraction principle. These foundational identities are $e(2x)=e^2(x)$ for the exponentials, and $\\log(x^{2})=2\\log x$ for the logarithm. Because a direct iteration of these identities is numerically unstable, owing to local expansiveness at the target, the central idea transfers the analysis to a residual function, on which the operator becomes a strict contraction with an explicit convergence rate. Beyond its theoretical economy, which dispenses with differential equations and power series, this characterization translates into efficient algorithms for the machine evaluation of elementary functions: the underlying framework yields floating-point kernels whose accuracy and iteration depth are governed by the theoretical contraction rate. We also present a computational study showing that, in a throughput-bound vectorized regime, these kernels are competitive with standard production libraries, and in favorable configurations exceed them, with the sine--cosine kernel faster at every tested iteration depth. These implementations operate without lookup tables or memory traffic, an architectural advantage for modern high-performance and energy-efficient computing.",
     "link": "https://arxiv.org/abs/2607.23196v1",
     "published": "2026-07-25T13:18:22Z"
-  },
-  {
-    "title": "Symmetric Jacobi Polynomials on a Triangle and Their Spectral Algebra",
-    "authors": [
-      "Misael E. Marriaga",
-      "Miguel A. Piñar"
-    ],
-    "summary": "We study a family of symmetric orthogonal polynomials on the unit triangle associated with the weight \\[ w_{α,γ,κ}(x,y) = (xy)^α(1-x-y)^γ|x-y|^{2κ+1}, \\quad α,γ,κ>-1,\\quad α+κ>-\\frac32. \\] We construct the corresponding monic symmetric orthogonal basis on the simplex chamber and prove that its elements are eigenfunctions of a formally self-adjoint second-order differential operator \\(\\mathcal D_1^{α,γ,κ}\\). A pair of adjoint ladder operators yields a second operator of order two \\(\\mathcal D_2^{α,κ}\\) with the same eigenfunctions. We also obtain an explicit representation of the basis in terms of one-variable Jacobi polynomials and compute its squared norms. After passing to the elementary symmetric variables, we determine the full algebra of linear partial differential operators with real polynomial coefficients having the transformed polynomials as eigenfunctions. Every such operator can be written uniquely as a polynomial in \\(\\mathcal D_1^{α,γ,κ}\\) and \\(\\mathcal D_2^{α,κ}\\); consequently, this algebra is isomorphic to the real polynomial ring in two variables.",
-    "link": "https://arxiv.org/abs/2607.22751v1",
-    "published": "2026-07-23T14:00:26Z"
   }
 ]
