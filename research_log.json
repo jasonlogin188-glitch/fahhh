@@ -1,5 +1,16 @@
 [
   {
+    "title": "Effective Lagrangian regularity and the uniqueness threshold for random Hölder velocity fields",
+    "authors": [
+      "Maria Colombo",
+      "Elias Hess-Childs",
+      "Keefer Rowan"
+    ],
+    "summary": "We study the behavior of the ordinary differential equations, flow maps, and continuity equations associated to autonomous random velocity fields that admit a natural multiscale finite range decomposition. The velocity fields we consider are only Hölder regular in space---$C^{α-}(\\mathbb{T}^d)$ for some $α\\in (0,1)$---thus the associated ODE and continuity equation are not a priori well-posed. However, above the critical threshold of $α= 1/2$, due to multiscale stochastic cancellations, we prove well-posedness is almost surely restored away from the zero level set of the velocity field. This threshold marks a genuine transition, as demonstrated by examples lying below the threshold that exhibit robust ill-posedness. We additionally provide effective regularity estimates below the critical threshold and prove analogous results in the related \"refreshing\" regime.",
+    "link": "https://arxiv.org/abs/2608.05931v1",
+    "published": "2026-08-06T12:01:11Z"
+  },
+  {
     "title": "Nonconcentration of eigenfunctions in Microlocal Kakeya-Nikodym norms: a phase space approach",
     "authors": [
       "Matthew D. Blair"
@@ -35,17 +46,5 @@
     "summary": "The probability-flow ordinary differential equation (PF-ODE) associated with a diffusion process is widely used in score-based generative modeling as a deterministic sampler that reproduces the marginal distributions of the diffusion. The validity of this marginal-matching property depends on the well-posedness of an ordinary differential equation whose velocity field is constructed from the score function of the diffusion. We examine the precise mathematical relation between a diffusion process, the Fokker-Planck equation and the associated PF-ODE under weak regularity assumptions on the drift and score. We establish existence and uniqueness of the marginal density flow as a solution of the Fokker--Planck equation under minimal regularity assumptions. We then study the corresponding Lagrangian problem using the DiPerna-Lions-Ambrosio theory of regular Lagrangian flows. We prove existence, uniqueness and stability of the flow, and show that it transports the initial distribution onto the diffusion marginals, under Sobolev or bounded-variation regularity of the score together with one-sided bounds on the divergence of the probability-flow velocity. We identify sufficient conditions for the required regularity in diffusion models relevant for applications. Our analysis underlines a fundamental distinction between Eulerian and Lagrangian descriptions. We construct a counterexample in which the Fokker--Planck equation has a unique density flow while the associated PF-ODE fails to admit a regular Lagrangian flow from the initial time, demonstrating that uniqueness of the density evolution does not in general imply the existence of a deterministic probability-flow representation. Finally, we derive stability estimates for probability-flow trajectories under learned score approximations. Our findings have implications for the training and deployment of score-based diffusion models.",
     "link": "https://arxiv.org/abs/2607.25685v2",
     "published": "2026-07-28T13:01:23Z"
-  },
-  {
-    "title": "A Fixed-Point Construction of the Elementary Transcendental Functions",
-    "authors": [
-      "François Alouges",
-      "Giovanni Di Fratta",
-      "Alberto Fiorenza",
-      "Renato Fiorenza"
-    ],
-    "summary": "We present a unified fixed-point construction of the elementary transcendental functions, encompassing the real exponential, the complex exponential (sine and cosine), and the natural logarithm. Each function is characterized as the unique solution of a duplication identity established through the Banach contraction principle. These foundational identities are $e(2x)=e^2(x)$ for the exponentials, and $\\log(x^{2})=2\\log x$ for the logarithm. Because a direct iteration of these identities is numerically unstable, owing to local expansiveness at the target, the central idea transfers the analysis to a residual function, on which the operator becomes a strict contraction with an explicit convergence rate. Beyond its theoretical economy, which dispenses with differential equations and power series, this characterization translates into efficient algorithms for the machine evaluation of elementary functions: the underlying framework yields floating-point kernels whose accuracy and iteration depth are governed by the theoretical contraction rate. We also present a computational study showing that, in a throughput-bound vectorized regime, these kernels are competitive with standard production libraries, and in favorable configurations exceed them, with the sine--cosine kernel faster at every tested iteration depth. These implementations operate without lookup tables or memory traffic, an architectural advantage for modern high-performance and energy-efficient computing.",
-    "link": "https://arxiv.org/abs/2607.23196v1",
-    "published": "2026-07-25T13:18:22Z"
   }
 ]
