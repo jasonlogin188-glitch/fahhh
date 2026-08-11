@@ -1,5 +1,16 @@
 [
   {
+    "title": "Generalized Freud weight, discrete Painlevé I hierarchy and full asymptotics of Hankel determinants",
+    "authors": [
+      "Wen-Gao Long",
+      "Lin-Rong Tang",
+      "Chao Min"
+    ],
+    "summary": "In this paper, we investigate the monic orthogonal polynomials $P_{n}(x;T_{m};λ)$ and the Hankel determinants $D_{n}(T_{m}; λ)$ associated with the generalized Freud weight \\[w(x;T_{m};λ) = |x|^{2λ+1}\\exp\\biggl(-\\sum_{k=1}^m t_k x^{2k}\\biggr),\\quad m \\in \\mathbb{Z}^+,\\; t_{k} \\in \\mathbb{R} , x\\in\\mathbb{R}\\setminus\\{0\\},\\] where \\(T_{m}=\\{t_{1},t_{2},\\cdots, t_{m}\\}\\), $t_{m}>0$ and \\(λ>-1\\).By employing ladder operators and compatibility conditions, we find that all members of the discrete Painlevé I hierarchy have a unified structure and the recurrence coefficient \\(β_n\\) of $P_{n}(x;T_{m};λ)$ satisfies the $m$-th member of the discrete Painlevé I hierarchy. Besides, we derive the second-order differential equation satisfied by $P_{n}(x;T_{m};λ)$, the partial derivatives of the recurrence coefficients \\(β_n\\) with respect to parameters \\(t_1, t_2, \\dots, t_{m-1}\\) and the corresponding differential identities for $D_{n}(T_{m}; λ)$. Based on the discrete Painlevé I hierarchy and the above differential identities, we obtain new partial differential equations satisfied by $\\lnβ_n$ and $\\ln D_{n}(T_{m}; λ)$.Using the discrete Painlevé I hierarchy and the asymptotic theory of linear difference equations, we derive the full asymptotic expansions of the recurrence coefficient $β_n$, the nontrivial leading coefficient $\\mathrm{p}(n; T_m; λ)$, and the Hankel determinant $D_n(T_m; λ)$ as $n\\to\\infty$, for general $T_m$ and $λ>-1$. Notably, while the logarithmic term $\\ln n$ appears in the leading-order contributions, it is absent from the remainder terms in these expansions.We illustrate our results under the specific decic Freud weight $w(x;t_1,t_2;λ)=|x|^{2λ+1} \\exp\\bigl(-x^{10}-t_2x^4-t_1x^2\\bigr)$.",
+    "link": "https://arxiv.org/abs/2608.08455v1",
+    "published": "2026-08-09T03:52:54Z"
+  },
+  {
     "title": "Effective Lagrangian regularity and the uniqueness threshold for random Hölder velocity fields",
     "authors": [
       "Maria Colombo",
@@ -37,14 +48,5 @@
     "summary": "Let $$ A_q(z)=\\sum_{k=0}^{\\infty}\\frac{q^{k^2}}{(q;q)_k}(-z)^k $$ be Ramanujan's entire function. We study it in the turning-point scaling $$ q=e^{-\\varepsilon},\\qquad z=\\frac{\\sqrt q}{4}e^{-\\varepsilon^{2/3}ζ}, $$ with $ζ$ in a compact subset of $\\mathbb{C}$. After an explicit exponential normalization, a direct coalescing-saddle analysis gives, uniformly on compact subsets, the expansion $$ \\operatorname{Ai}(ζ) +\\frac{\\varepsilon^{2/3}}{30} \\left(4ζ\\operatorname{Ai}(ζ) +ζ^2\\operatorname{Ai}'(ζ)\\right) +O_K(\\varepsilon). $$ Thus the first correction is explicit and comes with a quantitative remainder. For every fixed $n$, the same analysis locates the positive zero associated with the $n$-th Airy zero and proves that it is globally the $n$-th positive zero of $A_q$. Expanding the normalized $q$-difference equation recovers the Airy differential equation and confirms the scaling. An appendix records Morita's antisymmetric companion, whose normalized limit is $\\operatorname{Bi}$, together with a single-valued meromorphic descent of it. Numerical tables illustrate the normalization, the correction, and the zero formulas.",
     "link": "https://arxiv.org/abs/2607.27504v1",
     "published": "2026-07-29T22:38:50Z"
-  },
-  {
-    "title": "Mimicking diffusion processes with differential equations",
-    "authors": [
-      "Rama Cont"
-    ],
-    "summary": "The probability-flow ordinary differential equation (PF-ODE) associated with a diffusion process is widely used in score-based generative modeling as a deterministic sampler that reproduces the marginal distributions of the diffusion. The validity of this marginal-matching property depends on the well-posedness of an ordinary differential equation whose velocity field is constructed from the score function of the diffusion. We examine the precise mathematical relation between a diffusion process, the Fokker-Planck equation and the associated PF-ODE under weak regularity assumptions on the drift and score. We establish existence and uniqueness of the marginal density flow as a solution of the Fokker--Planck equation under minimal regularity assumptions. We then study the corresponding Lagrangian problem using the DiPerna-Lions-Ambrosio theory of regular Lagrangian flows. We prove existence, uniqueness and stability of the flow, and show that it transports the initial distribution onto the diffusion marginals, under Sobolev or bounded-variation regularity of the score together with one-sided bounds on the divergence of the probability-flow velocity. We identify sufficient conditions for the required regularity in diffusion models relevant for applications. Our analysis underlines a fundamental distinction between Eulerian and Lagrangian descriptions. We construct a counterexample in which the Fokker--Planck equation has a unique density flow while the associated PF-ODE fails to admit a regular Lagrangian flow from the initial time, demonstrating that uniqueness of the density evolution does not in general imply the existence of a deterministic probability-flow representation. Finally, we derive stability estimates for probability-flow trajectories under learned score approximations. Our findings have implications for the training and deployment of score-based diffusion models.",
-    "link": "https://arxiv.org/abs/2607.25685v2",
-    "published": "2026-07-28T13:01:23Z"
   }
 ]
