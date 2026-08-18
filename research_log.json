@@ -1,5 +1,46 @@
 [
   {
+    "title": "On the relations between several notions of symmetry for the second order linear differential equation",
+    "authors": [
+      "David Blázquez-Sanz",
+      "Santiago Alexis Aguirre Agudelo"
+    ],
+    "summary": "There are several non-equivalent notions of infinitesimal symmetry in the literature of second order linear differential equations: Lie point symmetries, vertical (gauge) symmetries, operator symmetries, infinitesimal contact symmetries, and Lie--Bäcklund operators. We construct an explicit correspondence among the first three, We then describe the Lie algebra $\\mathcal L_Ω(\\mathbb U)$ of infinitesimal contact transformations of the contact system $Ω=\\langle dy-y'\\,dx\\rangle$, with coefficients in a differential field $\\U$ of functions of $x$ and $y$. We obtain a canonical decomposition $\\mathcal L_Ω(\\mathbb U)=\\prod_{k\\ge0}\\mathcal L_Ω^k\\mathbb U$ into $\\mathbb C$-vector spaces, each parametrized by $\\mathbb U$ (by $\\mathbb U\\oplus\\mathbb U$ for $k=0$), and we compute the algebraic differential formulae for the Lie bracket in these coordinates. Applied to the symmetry problem, we prove that a contact vector field with generating function $W$ is a symmetry of if and only if $A^{2}W=aW+b\\,AW$, where $A$ is the vector field in the jet space corresponding to the equation; equivalently, if and only if $W=F_1(u_1,u_2)φ_1+F_2(u_1,u_2)φ_2$ for arbitrary functions $F_1,F_2$ of the two first integrals of $A$ and a basis $φ_1,φ_2$ of solutions. The symmetry algebra is always parametrized by two arbitrary functions of two variables. It also shows that the decomposition of $\\Lom(\\U)$ never captures the whole symmetry algebra: for $a\\neq0$ the graded part reduces to the point symmetries, while for $y''=0$ it is an infinite dimensional but still \\emph{proper} subspace, and in neither case is it a Lie subalgebra. Finally we make precise the transformation law $W\\mapstoμ^{-1}(W\\circ\\varphi)$ for characteristics under a contact transformation with conformal factor $μ$, which governs the transport of evolutionary representatives.",
+    "link": "https://arxiv.org/abs/2608.16879v1",
+    "published": "2026-08-17T17:57:11Z"
+  },
+  {
+    "title": "Real-Variable Characterizations and Their Applications of Anisotropic Besov Spaces with Matrix $\\mathcal A_\\infty$ Weights",
+    "authors": [
+      "Fan Bu",
+      "Shuaijun Feng",
+      "Qingying Xue",
+      "Dachun Yang",
+      "Wen Yuan"
+    ],
+    "summary": "Let $α\\in\\mathbb{R}$, $p\\in(0,\\infty)$, and $q\\in(0,\\infty]$. In this article, we develop a theory of matrix-weighted anisotropic Besov spaces associated with an expansive matrix $A$ and an $\\mathcal A_{p,\\infty}$-matrix weight $W$. We first introduce the homogeneous spaces $\\dot B_{p,q}^α(A,W)$ and establish their $\\varphi$-transform characterization. Then we construct counterexamples to show that the assumption $W\\in\\mathcal A_{p,\\infty}$ in this characterization cannot be relaxed to $W\\in\\bigcup_{r\\in(0,\\infty)}\\mathcal A_r$. The same counterexamples also show that this weaker condition $W\\in\\bigcup_{r\\in(0,\\infty)}\\mathcal A_r$ is insufficient to ensure the well-definedness of $\\dot B_{p,q}^α(A,W)$. Next we characterize $\\mathcal A_{p,\\infty}$-matrix weights via the rescaled maximal operator, which leads naturally to a new concept of the critical rescaling index that quantitatively captures the self-improving behavior of matrix weights. In terms of this index, we obtain optimal boundedness for almost diagonal operators on the associated sequence spaces $\\dot b_{p,q}^α(A,W)$. Based on these, we further establish the molecular characterization of $\\dot B_{p,q}^α(A,W)$ and some sharp boundedness results for pseudo-differential operators on these spaces.",
+    "link": "https://arxiv.org/abs/2608.16128v1",
+    "published": "2026-08-17T05:35:41Z"
+  },
+  {
+    "title": "The Nikolskii constant in odd dimensions",
+    "authors": [
+      "D. V. Gorbachev"
+    ],
+    "summary": "Let $\\varphi_{d}(|{\\,\\cdot\\,}|)$ be the radial extremal function in the problem for the sharp Nikolskii constant $\\mathcal C_d^{-1}=\\inf \\|f\\|_{1}$ over functions $f\\in\\mathit{PW}\\,_{1}^{1}(\\mathbb R^{d})$, $f(0)=1$. For every odd dimension, we construct an entire function $Φ$ of exponential type $1/2$ such that $\\varphi_d(z)=Φ(z)Φ(-z)$, and $Φ$ satisfies a quadratic functional equation and a second-order linear differential equation with polynomial coefficients. Thus, the problem of finding the extremal function is reduced to a spectral problem with finitely many parameters. This result extends a recent one-dimensional result, but uses a different method. For example, in dimension $d=3$ it leads to a seven-diagonal spectral scheme that allows us to compute $\\mathcal C_3$ to high accuracy. Even dimensions remain open within this approach.",
+    "link": "https://arxiv.org/abs/2608.15674v1",
+    "published": "2026-08-16T11:00:03Z"
+  },
+  {
+    "title": "Whittaker functions with one or both parameters large: simplified uniform asymptotic expansions involving Bessel and Airy functions",
+    "authors": [
+      "T. M. Dunster"
+    ],
+    "summary": "Uniform asymptotic expansions are derived as $κ\\to \\infty$ for the Whittaker functions $W_{κ,μ}(z)$, $M_{κ,μ}(z)$, as well as related functions including generalized Laguerre polynomials. The results are uniformly valid for $0\\leqμ\\leq(1-δ_0)κ<κ$, where $δ_0\\in(0,1)$ is arbitrary and fixed. The analysis is based on the associated differential equation, which has a double pole and two turning points. At one of the turning points, which may coalesce with the double pole, a recently developed asymptotic theory is applied to obtain expansions involving Bessel functions. At the second turning point, expansions involving Airy functions are obtained. In both cases, the coefficients are readily computable, in contrast to those occurring in earlier results. The expansions, when taken together, uniformly cover the entire complex $z$-plane on the principal branch. Standard analytic continuation and connection formulas extend the results to all branches of $z$ and to negative $μ$.",
+    "link": "https://arxiv.org/abs/2608.15374v1",
+    "published": "2026-08-15T19:03:28Z"
+  },
+  {
     "title": "Generalized Freud weight, discrete Painlevé I hierarchy and full asymptotics of Hankel determinants",
     "authors": [
       "Wen-Gao Long",
@@ -9,44 +50,5 @@
     "summary": "In this paper, we investigate the monic orthogonal polynomials $P_{n}(x;T_{m};λ)$ and the Hankel determinants $D_{n}(T_{m}; λ)$ associated with the generalized Freud weight \\[w(x;T_{m};λ) = |x|^{2λ+1}\\exp\\biggl(-\\sum_{k=1}^m t_k x^{2k}\\biggr),\\quad m \\in \\mathbb{Z}^+,\\; t_{k} \\in \\mathbb{R} , x\\in\\mathbb{R}\\setminus\\{0\\},\\] where \\(T_{m}=\\{t_{1},t_{2},\\cdots, t_{m}\\}\\), $t_{m}>0$ and \\(λ>-1\\).By employing ladder operators and compatibility conditions, we find that all members of the discrete Painlevé I hierarchy have a unified structure and the recurrence coefficient \\(β_n\\) of $P_{n}(x;T_{m};λ)$ satisfies the $m$-th member of the discrete Painlevé I hierarchy. Besides, we derive the second-order differential equation satisfied by $P_{n}(x;T_{m};λ)$, the partial derivatives of the recurrence coefficients \\(β_n\\) with respect to parameters \\(t_1, t_2, \\dots, t_{m-1}\\) and the corresponding differential identities for $D_{n}(T_{m}; λ)$. Based on the discrete Painlevé I hierarchy and the above differential identities, we obtain new partial differential equations satisfied by $\\lnβ_n$ and $\\ln D_{n}(T_{m}; λ)$.Using the discrete Painlevé I hierarchy and the asymptotic theory of linear difference equations, we derive the full asymptotic expansions of the recurrence coefficient $β_n$, the nontrivial leading coefficient $\\mathrm{p}(n; T_m; λ)$, and the Hankel determinant $D_n(T_m; λ)$ as $n\\to\\infty$, for general $T_m$ and $λ>-1$. Notably, while the logarithmic term $\\ln n$ appears in the leading-order contributions, it is absent from the remainder terms in these expansions.We illustrate our results under the specific decic Freud weight $w(x;t_1,t_2;λ)=|x|^{2λ+1} \\exp\\bigl(-x^{10}-t_2x^4-t_1x^2\\bigr)$.",
     "link": "https://arxiv.org/abs/2608.08455v1",
     "published": "2026-08-09T03:52:54Z"
-  },
-  {
-    "title": "Effective Lagrangian regularity and the uniqueness threshold for random Hölder velocity fields",
-    "authors": [
-      "Maria Colombo",
-      "Elias Hess-Childs",
-      "Keefer Rowan"
-    ],
-    "summary": "We study the behavior of the ordinary differential equations, flow maps, and continuity equations associated to autonomous random velocity fields that admit a natural multiscale finite range decomposition. The velocity fields we consider are only Hölder regular in space---$C^{α-}(\\mathbb{T}^d)$ for some $α\\in (0,1)$---thus the associated ODE and continuity equation are not a priori well-posed. However, above the critical threshold of $α= 1/2$, due to multiscale stochastic cancellations, we prove well-posedness is almost surely restored away from the zero level set of the velocity field. This threshold marks a genuine transition, as demonstrated by examples lying below the threshold that exhibit robust ill-posedness. We additionally provide effective regularity estimates below the critical threshold and prove analogous results in the related \"refreshing\" regime.",
-    "link": "https://arxiv.org/abs/2608.05931v1",
-    "published": "2026-08-06T12:01:11Z"
-  },
-  {
-    "title": "Nonconcentration of eigenfunctions in Microlocal Kakeya-Nikodym norms: a phase space approach",
-    "authors": [
-      "Matthew D. Blair"
-    ],
-    "summary": "Previous works of the author and Sogge [BS17], [BS18] showed the significance of microlocal Kakeya-Nikodym averages in improving $L^p$ bounds on (approximate) eigenfunctions of the Laplacian in the high frequency limit. These averages are formed by taking the $L^2$ norm of an eigenfunction when localized in phase space to a small, frequency-dependent tube about a geodesic segment via a pseudodifferential operator. The former work showed that for values of $p$ beneath the Stein-Tomas exponent, $L^p$ norms are controlled by a supremum over these averages. The latter work then showed that when $(M,g)$ has nonpositive sectional curvatures, there is a logarithmic gain in the averages. In combination, these two works improved the $L^p$ theory for eigenfunctions over the universal bounds of Sogge in this geometric setting. In the present work, we develop sufficient conditions for improving these averages which are more general than nonpositive curvature. Instead our sufficient conditions are rooted in the dynamics of the geodesic flow on the tangent bundle, considering cases where the flow expands and contracts tangent vectors in at least some directions, e.g. partially hyperbolic flows. We make use of Gaussian wave packet (phase space) transforms on the manifold in order to fully appreciate the gain these hypotheses impart on the microlocal averages. In the process, we further develop Gaussian beam approximations to the wave equation in a coordinate invariant manner.",
-    "link": "https://arxiv.org/abs/2607.28882v1",
-    "published": "2026-07-30T22:53:13Z"
-  },
-  {
-    "title": "Limit theorems for differential systems with multipoint boundary conditions in Sobolev spaces",
-    "authors": [
-      "Olena Atlasiuk",
-      "Vladimir Mikhailets"
-    ],
-    "summary": "The most general class of multipoint inhomogeneous boundary-value problems for systems of linear ordinary differential equations of arbitrary order $r\\geq 1$ is investigated, whose solutions belong to a given Sobolev space $W_p^{n+r}$, where $n\\geq 0$ and $1\\leq p\\leq \\infty$. The boundary conditions in these problems contain Caputo derivatives of fractional or integer orders, which may exceed the order of the differential system equations. Constructive sufficient conditions are established under which the solutions of these problems are continuous with respect to a parameter from an abstract metric space in the Sobolev space $W_p^{n+r}$.",
-    "link": "https://arxiv.org/abs/2607.28267v1",
-    "published": "2026-07-30T14:21:40Z"
-  },
-  {
-    "title": "Airy Turning-Point Asymptotics for Ramanujan's Entire Function $A_q(z)$",
-    "authors": [
-      "Yu-Tian Li"
-    ],
-    "summary": "Let $$ A_q(z)=\\sum_{k=0}^{\\infty}\\frac{q^{k^2}}{(q;q)_k}(-z)^k $$ be Ramanujan's entire function. We study it in the turning-point scaling $$ q=e^{-\\varepsilon},\\qquad z=\\frac{\\sqrt q}{4}e^{-\\varepsilon^{2/3}ζ}, $$ with $ζ$ in a compact subset of $\\mathbb{C}$. After an explicit exponential normalization, a direct coalescing-saddle analysis gives, uniformly on compact subsets, the expansion $$ \\operatorname{Ai}(ζ) +\\frac{\\varepsilon^{2/3}}{30} \\left(4ζ\\operatorname{Ai}(ζ) +ζ^2\\operatorname{Ai}'(ζ)\\right) +O_K(\\varepsilon). $$ Thus the first correction is explicit and comes with a quantitative remainder. For every fixed $n$, the same analysis locates the positive zero associated with the $n$-th Airy zero and proves that it is globally the $n$-th positive zero of $A_q$. Expanding the normalized $q$-difference equation recovers the Airy differential equation and confirms the scaling. An appendix records Morita's antisymmetric companion, whose normalized limit is $\\operatorname{Bi}$, together with a single-valued meromorphic descent of it. Numerical tables illustrate the normalization, the correction, and the zero formulas.",
-    "link": "https://arxiv.org/abs/2607.27504v1",
-    "published": "2026-07-29T22:38:50Z"
   }
 ]
