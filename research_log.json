@@ -1,5 +1,24 @@
 [
   {
+    "title": "Second-Level Concavity of the Riemann $Ξ$ Kernel",
+    "authors": [
+      "Michel Planat",
+      "Patrick Solé"
+    ],
+    "summary": "Let $Φ$ be the classical Jacobi-theta kernel in the Fourier representation of the Riemann $Ξ$-function, set $s(t)=Φ(\\sqrt t)$, and define the first Laguerre expression $f(t)=s'(t)^2-s(t)s''(t)$. Csordas and Dimitrov (2000) conjectured that $\\log f$ is strictly concave on $(0,\\infty)$; Csordas (2015) later restated the assertion as Open Problem~4.14. We prove the conjecture by two complementary methods, sharing only a local certificate near the modular fixed point. The first proof is a direct theta-series argument: a directed-rounding Taylor certificate near $t=0$ is joined to a dominant-first-summand estimate with rigorous theta-tail bounds. The second proof uses Jacobi's nonlinear third-order differential equation for $θ_3$ to obtain a three-dimensional autonomous phase space, a sharp elliptic monotonicity theorem, and an exact quartic reduction of the target inequality. The quartic boundary is a polynomial shear of the quadratic cone $XY=Z^2$. A directed interval certificate proves that every possible cone contact on the only remaining compact interval points strictly into the desired region; beyond that interval a pointwise monotonicity theorem closes the argument. The finite certificates and exact symbolic checks are supplied as reproducible scripts. The result implies the associated double Turán inequalities through the theorem of Csordas--Dimitrov, but no assertion of the Riemann Hypothesis is made.",
+    "link": "https://arxiv.org/abs/2608.19160v1",
+    "published": "2026-08-19T17:43:05Z"
+  },
+  {
+    "title": "Gaudin models for some classical multivariate distributions",
+    "authors": [
+      "Plamen Iliev"
+    ],
+    "summary": "Representations of the Kohno-Drinfeld Lie algebra associated with several classical multivariate distributions have played an important role in recent developments in the theory of quantum superintegrable systems. In this work, we analyze the corresponding Gaudin models for the multivariate Hahn, Dirichlet, multinomial, and negative multinomial distributions. More precisely, using tools from representation theory, we construct multivariate orthogonal polynomials with respect to these distributions as common eigenfunctions of Gaudin operators. The polynomials are parametrized by solutions to the Bethe ansatz equations or, equivalently, by the roots of Heine-Stieltjes polynomials.",
+    "link": "https://arxiv.org/abs/2608.18930v1",
+    "published": "2026-08-19T13:58:36Z"
+  },
+  {
     "title": "On the relations between several notions of symmetry for the second order linear differential equation",
     "authors": [
       "David Blázquez-Sanz",
@@ -30,25 +49,5 @@
     "summary": "Let $\\varphi_{d}(|{\\,\\cdot\\,}|)$ be the radial extremal function in the problem for the sharp Nikolskii constant $\\mathcal C_d^{-1}=\\inf \\|f\\|_{1}$ over functions $f\\in\\mathit{PW}\\,_{1}^{1}(\\mathbb R^{d})$, $f(0)=1$. For every odd dimension, we construct an entire function $Φ$ of exponential type $1/2$ such that $\\varphi_d(z)=Φ(z)Φ(-z)$, and $Φ$ satisfies a quadratic functional equation and a second-order linear differential equation with polynomial coefficients. Thus, the problem of finding the extremal function is reduced to a spectral problem with finitely many parameters. This result extends a recent one-dimensional result, but uses a different method. For example, in dimension $d=3$ it leads to a seven-diagonal spectral scheme that allows us to compute $\\mathcal C_3$ to high accuracy. Even dimensions remain open within this approach.",
     "link": "https://arxiv.org/abs/2608.15674v1",
     "published": "2026-08-16T11:00:03Z"
-  },
-  {
-    "title": "Whittaker functions with one or both parameters large: simplified uniform asymptotic expansions involving Bessel and Airy functions",
-    "authors": [
-      "T. M. Dunster"
-    ],
-    "summary": "Uniform asymptotic expansions are derived as $κ\\to \\infty$ for the Whittaker functions $W_{κ,μ}(z)$, $M_{κ,μ}(z)$, as well as related functions including generalized Laguerre polynomials. The results are uniformly valid for $0\\leqμ\\leq(1-δ_0)κ<κ$, where $δ_0\\in(0,1)$ is arbitrary and fixed. The analysis is based on the associated differential equation, which has a double pole and two turning points. At one of the turning points, which may coalesce with the double pole, a recently developed asymptotic theory is applied to obtain expansions involving Bessel functions. At the second turning point, expansions involving Airy functions are obtained. In both cases, the coefficients are readily computable, in contrast to those occurring in earlier results. The expansions, when taken together, uniformly cover the entire complex $z$-plane on the principal branch. Standard analytic continuation and connection formulas extend the results to all branches of $z$ and to negative $μ$.",
-    "link": "https://arxiv.org/abs/2608.15374v1",
-    "published": "2026-08-15T19:03:28Z"
-  },
-  {
-    "title": "Generalized Freud weight, discrete Painlevé I hierarchy and full asymptotics of Hankel determinants",
-    "authors": [
-      "Wen-Gao Long",
-      "Lin-Rong Tang",
-      "Chao Min"
-    ],
-    "summary": "In this paper, we investigate the monic orthogonal polynomials $P_{n}(x;T_{m};λ)$ and the Hankel determinants $D_{n}(T_{m}; λ)$ associated with the generalized Freud weight \\[w(x;T_{m};λ) = |x|^{2λ+1}\\exp\\biggl(-\\sum_{k=1}^m t_k x^{2k}\\biggr),\\quad m \\in \\mathbb{Z}^+,\\; t_{k} \\in \\mathbb{R} , x\\in\\mathbb{R}\\setminus\\{0\\},\\] where \\(T_{m}=\\{t_{1},t_{2},\\cdots, t_{m}\\}\\), $t_{m}>0$ and \\(λ>-1\\).By employing ladder operators and compatibility conditions, we find that all members of the discrete Painlevé I hierarchy have a unified structure and the recurrence coefficient \\(β_n\\) of $P_{n}(x;T_{m};λ)$ satisfies the $m$-th member of the discrete Painlevé I hierarchy. Besides, we derive the second-order differential equation satisfied by $P_{n}(x;T_{m};λ)$, the partial derivatives of the recurrence coefficients \\(β_n\\) with respect to parameters \\(t_1, t_2, \\dots, t_{m-1}\\) and the corresponding differential identities for $D_{n}(T_{m}; λ)$. Based on the discrete Painlevé I hierarchy and the above differential identities, we obtain new partial differential equations satisfied by $\\lnβ_n$ and $\\ln D_{n}(T_{m}; λ)$.Using the discrete Painlevé I hierarchy and the asymptotic theory of linear difference equations, we derive the full asymptotic expansions of the recurrence coefficient $β_n$, the nontrivial leading coefficient $\\mathrm{p}(n; T_m; λ)$, and the Hankel determinant $D_n(T_m; λ)$ as $n\\to\\infty$, for general $T_m$ and $λ>-1$. Notably, while the logarithmic term $\\ln n$ appears in the leading-order contributions, it is absent from the remainder terms in these expansions.We illustrate our results under the specific decic Freud weight $w(x;t_1,t_2;λ)=|x|^{2λ+1} \\exp\\bigl(-x^{10}-t_2x^4-t_1x^2\\bigr)$.",
-    "link": "https://arxiv.org/abs/2608.08455v1",
-    "published": "2026-08-09T03:52:54Z"
   }
 ]
