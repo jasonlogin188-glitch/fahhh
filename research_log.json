@@ -1,5 +1,38 @@
 [
   {
+    "title": "Evolution families and variation of constants formula for abstract functional differential equations with time-dependent infinite delay",
+    "authors": [
+      "Claudio Carrasco",
+      "Claudio A. Gallegos",
+      "Hernán R. Henríquez",
+      "Matthieu F. Pinaud"
+    ],
+    "summary": "In this paper, we consider a class of first-order abstract retarded functional differential equations in Banach spaces, incorporating a time-dependent infinite delay governed by a regulated function. We establish the existence of mild solutions for the nonlinear equation and show that the family of solution maps for the linear equation forms a well-defined evolution family of bounded linear operators on an appropriate phase space. Furthermore, we leverage this evolution family to prove a variation of constants formula for the inhomogeneous linear problem.",
+    "link": "https://arxiv.org/abs/2608.24769v1",
+    "published": "2026-08-25T16:06:46Z"
+  },
+  {
+    "title": "The Nikolskii Constant in Arbitrary Dimension",
+    "authors": [
+      "D. V. Gorbachev"
+    ],
+    "summary": "We study the radial extremal function $\\varphi(|{\\,\\cdot\\,}|)$ arising in the problem of finding the sharp Nikolskii constant $\\mathcal C_d$ in $\\mathit{PW}_1^1(\\mathbb R^d)$ for arbitrary dimension $d\\ge1$. We prove a factorization $\\varphi=Φ_1Φ_2$, where $Φ_1$ and $Φ_2$ are entire functions of exponential type $1/2$ satisfying a functional equation and second-order differential equations with polynomial coefficients. As a result, the original extremal problem is reduced to a one-dimensional spectral problem depending on at most $d+1$ parameters. We also obtain a zeta interpretation of the coefficients of the polynomial appearing in the functional equation and a multiplicative equilibrium condition for the zeros of the extremal function. These results can be used to construct several algorithms for computing $\\mathcal C_d$.",
+    "link": "https://arxiv.org/abs/2608.22578v1",
+    "published": "2026-08-23T20:06:04Z"
+  },
+  {
+    "title": "Finite-term recurrences in a generalized Bochner--Krall family",
+    "authors": [
+      "L. M. Anguas",
+      "D. Barrios Rolanía",
+      "B. Shapiro",
+      "M. Tater"
+    ],
+    "summary": "We classify the differential operators \\(T=z^j\\partial_z^j+z^m\\partial_z^\\ell\\), where \\(0\\le m<\\ell\\) and \\(1\\le j<\\ell\\), whose monic eigenpolynomials satisfy a finite-term recurrence relation. Writing \\(k=\\ell-m\\), such a recurrence exists if and only if \\(j=1\\) and \\(k\\mid\\ell\\). In that case we determine all recurrence coefficients in closed form and prove that the associated difference operator has order \\(\\ell\\). We also give an explicit factorization showing that every admissible operator is of Type~(2) in Conjecture~1.10 of Horozov--Shapiro--Tater; the equality of the differential and difference orders is the conclusion predicted by their Conjecture~1.9.",
+    "link": "https://arxiv.org/abs/2608.21802v1",
+    "published": "2026-08-22T06:51:20Z"
+  },
+  {
     "title": "Second-Level Concavity of the Riemann $Ξ$ Kernel",
     "authors": [
       "Michel Planat",
@@ -17,37 +50,5 @@
     "summary": "Representations of the Kohno-Drinfeld Lie algebra associated with several classical multivariate distributions have played an important role in recent developments in the theory of quantum superintegrable systems. In this work, we analyze the corresponding Gaudin models for the multivariate Hahn, Dirichlet, multinomial, and negative multinomial distributions. More precisely, using tools from representation theory, we construct multivariate orthogonal polynomials with respect to these distributions as common eigenfunctions of Gaudin operators. The polynomials are parametrized by solutions to the Bethe ansatz equations or, equivalently, by the roots of Heine-Stieltjes polynomials.",
     "link": "https://arxiv.org/abs/2608.18930v1",
     "published": "2026-08-19T13:58:36Z"
-  },
-  {
-    "title": "On the relations between several notions of symmetry for the second order linear differential equation",
-    "authors": [
-      "David Blázquez-Sanz",
-      "Santiago Alexis Aguirre Agudelo"
-    ],
-    "summary": "There are several non-equivalent notions of infinitesimal symmetry in the literature of second order linear differential equations: Lie point symmetries, vertical (gauge) symmetries, operator symmetries, infinitesimal contact symmetries, and Lie--Bäcklund operators. We construct an explicit correspondence among the first three, We then describe the Lie algebra $\\mathcal L_Ω(\\mathbb U)$ of infinitesimal contact transformations of the contact system $Ω=\\langle dy-y'\\,dx\\rangle$, with coefficients in a differential field $\\U$ of functions of $x$ and $y$. We obtain a canonical decomposition $\\mathcal L_Ω(\\mathbb U)=\\prod_{k\\ge0}\\mathcal L_Ω^k\\mathbb U$ into $\\mathbb C$-vector spaces, each parametrized by $\\mathbb U$ (by $\\mathbb U\\oplus\\mathbb U$ for $k=0$), and we compute the algebraic differential formulae for the Lie bracket in these coordinates. Applied to the symmetry problem, we prove that a contact vector field with generating function $W$ is a symmetry of if and only if $A^{2}W=aW+b\\,AW$, where $A$ is the vector field in the jet space corresponding to the equation; equivalently, if and only if $W=F_1(u_1,u_2)φ_1+F_2(u_1,u_2)φ_2$ for arbitrary functions $F_1,F_2$ of the two first integrals of $A$ and a basis $φ_1,φ_2$ of solutions. The symmetry algebra is always parametrized by two arbitrary functions of two variables. It also shows that the decomposition of $\\Lom(\\U)$ never captures the whole symmetry algebra: for $a\\neq0$ the graded part reduces to the point symmetries, while for $y''=0$ it is an infinite dimensional but still \\emph{proper} subspace, and in neither case is it a Lie subalgebra. Finally we make precise the transformation law $W\\mapstoμ^{-1}(W\\circ\\varphi)$ for characteristics under a contact transformation with conformal factor $μ$, which governs the transport of evolutionary representatives.",
-    "link": "https://arxiv.org/abs/2608.16879v1",
-    "published": "2026-08-17T17:57:11Z"
-  },
-  {
-    "title": "Real-Variable Characterizations and Their Applications of Anisotropic Besov Spaces with Matrix $\\mathcal A_\\infty$ Weights",
-    "authors": [
-      "Fan Bu",
-      "Shuaijun Feng",
-      "Qingying Xue",
-      "Dachun Yang",
-      "Wen Yuan"
-    ],
-    "summary": "Let $α\\in\\mathbb{R}$, $p\\in(0,\\infty)$, and $q\\in(0,\\infty]$. In this article, we develop a theory of matrix-weighted anisotropic Besov spaces associated with an expansive matrix $A$ and an $\\mathcal A_{p,\\infty}$-matrix weight $W$. We first introduce the homogeneous spaces $\\dot B_{p,q}^α(A,W)$ and establish their $\\varphi$-transform characterization. Then we construct counterexamples to show that the assumption $W\\in\\mathcal A_{p,\\infty}$ in this characterization cannot be relaxed to $W\\in\\bigcup_{r\\in(0,\\infty)}\\mathcal A_r$. The same counterexamples also show that this weaker condition $W\\in\\bigcup_{r\\in(0,\\infty)}\\mathcal A_r$ is insufficient to ensure the well-definedness of $\\dot B_{p,q}^α(A,W)$. Next we characterize $\\mathcal A_{p,\\infty}$-matrix weights via the rescaled maximal operator, which leads naturally to a new concept of the critical rescaling index that quantitatively captures the self-improving behavior of matrix weights. In terms of this index, we obtain optimal boundedness for almost diagonal operators on the associated sequence spaces $\\dot b_{p,q}^α(A,W)$. Based on these, we further establish the molecular characterization of $\\dot B_{p,q}^α(A,W)$ and some sharp boundedness results for pseudo-differential operators on these spaces.",
-    "link": "https://arxiv.org/abs/2608.16128v1",
-    "published": "2026-08-17T05:35:41Z"
-  },
-  {
-    "title": "The Nikolskii constant in odd dimensions",
-    "authors": [
-      "D. V. Gorbachev"
-    ],
-    "summary": "Let $\\varphi_{d}(|{\\,\\cdot\\,}|)$ be the radial extremal function in the problem for the sharp Nikolskii constant $\\mathcal C_d^{-1}=\\inf \\|f\\|_{1}$ over functions $f\\in\\mathit{PW}\\,_{1}^{1}(\\mathbb R^{d})$, $f(0)=1$. For every odd dimension, we construct an entire function $Φ$ of exponential type $1/2$ such that $\\varphi_d(z)=Φ(z)Φ(-z)$, and $Φ$ satisfies a quadratic functional equation and a second-order linear differential equation with polynomial coefficients. Thus, the problem of finding the extremal function is reduced to a spectral problem with finitely many parameters. This result extends a recent one-dimensional result, but uses a different method. For example, in dimension $d=3$ it leads to a seven-diagonal spectral scheme that allows us to compute $\\mathcal C_3$ to high accuracy. Even dimensions remain open within this approach.",
-    "link": "https://arxiv.org/abs/2608.15674v1",
-    "published": "2026-08-16T11:00:03Z"
   }
 ]
