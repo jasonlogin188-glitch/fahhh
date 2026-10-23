@@ -1,54 +1,54 @@
 [
   {
-    "title": "Evolution families and variation of constants formula for abstract functional differential equations with time-dependent infinite delay",
+    "title": "Dual medial axes in finite-dimensional normed spaces",
     "authors": [
-      "Claudio Carrasco",
-      "Claudio A. Gallegos",
-      "Hernán R. Henríquez",
-      "Matthieu F. Pinaud"
+      "Arnaud Durand",
+      "Xiangyu Liang",
+      "Sicheng Zhang"
     ],
-    "summary": "In this paper, we consider a class of first-order abstract retarded functional differential equations in Banach spaces, incorporating a time-dependent infinite delay governed by a regulated function. We establish the existence of mild solutions for the nonlinear equation and show that the family of solution maps for the linear equation forms a well-defined evolution family of bounded linear operators on an appropriate phase space. Furthermore, we leverage this evolution family to prove a variation of constants formula for the inhomogeneous linear problem.",
-    "link": "https://arxiv.org/abs/2608.24769v1",
-    "published": "2026-08-25T16:06:46Z"
+    "summary": "We study medial axes of nonempty closed sets in finite-dimensional real normed spaces whose norms are $C^1$ away from the origin. Using the differential of the norm, we define the dual $k$-medial axis by requiring the contact covectors associated with nearest points to have affine dimension at least $k-1$. In dimension $n$, we prove that this set is $(n-k+1)$-rectifiable for every $1\\le k\\le n+1$, and hence has Hausdorff dimension at most $n-k+1$. We give a direct geometric proof and characterize the dual medial axes through the superdifferential of the squared distance function, obtaining an alternative proof from a theorem of Alberti, Ambrosio, and Cannarsa on singularities of semiconvex functions. Under the additional assumption of strict convexity, the ordinary and dual medial axes coincide for $k=2,3$, yielding the corresponding rectifiability results for ordinary medial axes. For $k=4$, however, the ordinary rectifiability conclusion can fail even for norms arbitrarily close to Euclidean: we construct norms on $\\mathbb R^3$ with smooth positively curved unit spheres arbitrarily $C^\\infty$-close to the Euclidean sphere, together with four-point sets whose ordinary $4$-medial axes contain nondegenerate line segments.",
+    "link": "https://arxiv.org/abs/2610.30878v1",
+    "published": "2026-10-22T07:57:19Z"
   },
   {
-    "title": "The Nikolskii Constant in Arbitrary Dimension",
+    "title": "Higher rank spectral projector estimates and a Stein--Tomas restriction theorem",
     "authors": [
-      "D. V. Gorbachev"
+      "Phillip Harris",
+      "Jiaqi Hou",
+      "Xiaoqi Huang"
     ],
-    "summary": "We study the radial extremal function $\\varphi(|{\\,\\cdot\\,}|)$ arising in the problem of finding the sharp Nikolskii constant $\\mathcal C_d$ in $\\mathit{PW}_1^1(\\mathbb R^d)$ for arbitrary dimension $d\\ge1$. We prove a factorization $\\varphi=Φ_1Φ_2$, where $Φ_1$ and $Φ_2$ are entire functions of exponential type $1/2$ satisfying a functional equation and second-order differential equations with polynomial coefficients. As a result, the original extremal problem is reduced to a one-dimensional spectral problem depending on at most $d+1$ parameters. We also obtain a zeta interpretation of the coefficients of the polynomial appearing in the functional equation and a multiplicative equilibrium condition for the zeros of the extremal function. These results can be used to construct several algorithms for computing $\\mathcal C_d$.",
-    "link": "https://arxiv.org/abs/2608.22578v1",
-    "published": "2026-08-23T20:06:04Z"
+    "summary": "Let $X$ be a compact locally symmetric space of noncompact type. We prove sharp upper bounds for the $L^2\\to L^p$ operator norms of spectral projectors for joint eigenfunctions of the full ring of invariant differential operators on $X$. This improves the corresponding result of Marshall, by removing a logarithmic power loss at the critical exponent. Using the same method, we also prove the endpoint case of Mockenhaupt's $(L^2,L^p)$ Fourier restriction theorem.",
+    "link": "https://arxiv.org/abs/2610.29721v1",
+    "published": "2026-10-21T13:30:21Z"
   },
   {
-    "title": "Finite-term recurrences in a generalized Bochner--Krall family",
+    "title": "On the gradient conjecture at infinity: Finite spherical length for gradient trajectories of definable potentials",
     "authors": [
-      "L. M. Anguas",
-      "D. Barrios Rolanía",
-      "B. Shapiro",
-      "M. Tater"
+      "Thang Do",
+      "Arnulf Jentzen",
+      "Benno Kuckuck"
     ],
-    "summary": "We classify the differential operators \\(T=z^j\\partial_z^j+z^m\\partial_z^\\ell\\), where \\(0\\le m<\\ell\\) and \\(1\\le j<\\ell\\), whose monic eigenpolynomials satisfy a finite-term recurrence relation. Writing \\(k=\\ell-m\\), such a recurrence exists if and only if \\(j=1\\) and \\(k\\mid\\ell\\). In that case we determine all recurrence coefficients in closed form and prove that the associated difference operator has order \\(\\ell\\). We also give an explicit factorization showing that every admissible operator is of Type~(2) in Conjecture~1.10 of Horozov--Shapiro--Tater; the equality of the differential and difference orders is the conclusion predicted by their Conjecture~1.9.",
-    "link": "https://arxiv.org/abs/2608.21802v1",
-    "published": "2026-08-22T06:51:20Z"
+    "summary": "We prove that for every open $ U \\subseteq \\mathbb R^n $ the spherical projection of every gradient trajectory $θ(t)$, $t \\geq 0$, of a definable $C^1$-potential $F \\colon U \\to \\mathbb R$ has finite length and, in particular, converges (directional convergence). In other words, every gradient trajectory of a definable $C^1$-potential has finite total angular motion. Here, definable means definable in an arbitrary o-minimal structure expanding the real field. Notably, the gradient trajectory in this result is an arbitrary solution of the gradient flow differential equation (whose solutions may not be unique) with no further assumptions: The gradient trajectory may be unbounded and diverge to infinity or it may be convergent. The established theorem therefore provides affirmative answers to both the gradient conjecture at infinity for definable potentials and the definable Thom gradient conjecture. We apply our theorem to the training of deep neural networks (DNNs) to conclude that, in the case of definable and continuously differentiable activation and loss functions, the spherical projection of the DNN training flow must always converge (directional convergence).",
+    "link": "https://arxiv.org/abs/2610.29211v1",
+    "published": "2026-10-21T05:06:29Z"
   },
   {
-    "title": "Second-Level Concavity of the Riemann $Ξ$ Kernel",
+    "title": "Spherical harmonics and infinitesimal projective transformations",
     "authors": [
-      "Michel Planat",
-      "Patrick Solé"
+      "Yury A. Neretin"
     ],
-    "summary": "Let $Φ$ be the classical Jacobi-theta kernel in the Fourier representation of the Riemann $Ξ$-function, set $s(t)=Φ(\\sqrt t)$, and define the first Laguerre expression $f(t)=s'(t)^2-s(t)s''(t)$. Csordas and Dimitrov (2000) conjectured that $\\log f$ is strictly concave on $(0,\\infty)$; Csordas (2015) later restated the assertion as Open Problem~4.14. We prove the conjecture by two complementary methods, sharing only a local certificate near the modular fixed point. The first proof is a direct theta-series argument: a directed-rounding Taylor certificate near $t=0$ is joined to a dominant-first-summand estimate with rigorous theta-tail bounds. The second proof uses Jacobi's nonlinear third-order differential equation for $θ_3$ to obtain a three-dimensional autonomous phase space, a sharp elliptic monotonicity theorem, and an exact quartic reduction of the target inequality. The quartic boundary is a polynomial shear of the quadratic cone $XY=Z^2$. A directed interval certificate proves that every possible cone contact on the only remaining compact interval points strictly into the desired region; beyond that interval a pointwise monotonicity theorem closes the argument. The finite certificates and exact symbolic checks are supplied as reproducible scripts. The result implies the associated double Turán inequalities through the theorem of Csordas--Dimitrov, but no assertion of the Riemann Hypothesis is made.",
-    "link": "https://arxiv.org/abs/2608.19160v1",
-    "published": "2026-08-19T17:43:05Z"
+    "summary": "Consider the space of $C^\\infty$-functions on the two-dimensional sphere $S^2$ and its decomposition $\\oplus\\mathcal H_m$ into a direct sum of minimal rotation-invariant spaces. We consider elements of $\\oplus\\mathcal H_m$ as functions of two variables, a nonnegative integer variable $m$ and a complex variable $u$ (a restriction of such function to a set $m=k$ is a polynomial in $u$ of degree $\\le 2k$). The group $\\mathrm{GL}\\,(3,{\\mathbb R})$ of all matrices of order 3 acts on $S^2$, so its Lie algebra acts in $C^\\infty(S^2)$ by differentiations along vector fields. We construct operators in $\\mathcal W^\\infty$ corresponding such differentiations and obtain a collection of differential-difference operators in $\\mathcal W^\\infty$. The expressions include shifts $m\\mapsto m\\pm 2$ and derivatives of order 4 in $u$.",
+    "link": "https://arxiv.org/abs/2610.28320v1",
+    "published": "2026-10-20T14:55:35Z"
   },
   {
-    "title": "Gaudin models for some classical multivariate distributions",
+    "title": "Invariant pseudo-unitary matrix ensembles and local statistics and conductance fluctuations of the DMPK ensemble",
     "authors": [
-      "Plamen Iliev"
+      "Dong Wang",
+      "Thomas Wolfs"
     ],
-    "summary": "Representations of the Kohno-Drinfeld Lie algebra associated with several classical multivariate distributions have played an important role in recent developments in the theory of quantum superintegrable systems. In this work, we analyze the corresponding Gaudin models for the multivariate Hahn, Dirichlet, multinomial, and negative multinomial distributions. More precisely, using tools from representation theory, we construct multivariate orthogonal polynomials with respect to these distributions as common eigenfunctions of Gaudin operators. The polynomials are parametrized by solutions to the Bethe ansatz equations or, equivalently, by the roots of Heine-Stieltjes polynomials.",
-    "link": "https://arxiv.org/abs/2608.18930v1",
-    "published": "2026-08-19T13:58:36Z"
+    "summary": "We consider the DMPK ensemble, which models quantum transport in a disordered wire, and describe its limiting local statistics as the number of particles tends to infinity. In the metallic regime, as well as at crossover I, we obtain sine statistics in the bulk, Bessel statistics at the hard edge and Airy statistics at the soft edge. In the insulating regime, we prove localization around certain explicit deterministic positions with Gaussian fluctuations. This confirms and quantifies the predicted universal and localized behavior in the physics literature. At crossover II, we obtain explicit limiting kernels in the bulk and at both edges, which interpolate between these regimes. The hard edge kernel involves Legendre functions and, to the best of our knowledge, is new, while the bulk and soft edge kernels agree with those derived for the squared singular values of critically scaled products of independent Ginibre matrices. To explain these similarities, we construct a class of invariant pseudo-unitary matrices that is closed under taking products and use it to interpret the DMPK ensemble as the joint density of the spectral variables of a product of such random matrices. More generally, the latter takes the form of a polynomial ensemble of derivative type involving a second order differential operator compatible with the Legendre functions. Finally, we obtain uniform asymptotic expansions of the mean and variance of the conductance and prove that the DMPK ensemble admits universal conductance fluctuations, i.e. the variance of the conductance tends to $1/15$ throughout the whole metallic regime. This again confirms the predictions in the physics literature.",
+    "link": "https://arxiv.org/abs/2610.27532v1",
+    "published": "2026-10-20T02:48:10Z"
   }
 ]
