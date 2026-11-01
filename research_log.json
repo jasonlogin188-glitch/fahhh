@@ -1,5 +1,47 @@
 [
   {
+    "title": "Tangential center problem for planar Hamiltonian differential equations",
+    "authors": [
+      "M. J. Alvarez",
+      "J. L. Bravo",
+      "L. A. Calderon",
+      "S. Rebollo-Perdomo"
+    ],
+    "summary": "Consider a planar Hamiltonian differential equation with a nondegenerate center at the origin. The Tangential Center Problem asks for a characterization of polynomial perturbations for which the center persists at first order. This problem plays a fundamental role in the study of the center-focus problem. We propose an effective algorithmic approach to the Tangential Center Problem for planar polynomial Hamiltonian differential equations. Using this approach, we obtain a complete solution of the quadratic Tangential Center Problem. We further apply it to a non-generic family of cubic Hamiltonian differential equations containing the planar Hamiltonian Lotka--Volterra equation. For a general cubic polynomial perturbation, we derive necessary and sufficient conditions for the vanishing of the corresponding first Poincaré--Pontryagin--Melnikov function and characterize all tangential centers.",
+    "link": "https://arxiv.org/abs/2610.40311v1",
+    "published": "2026-10-29T15:49:48Z"
+  },
+  {
+    "title": "The S-function at arbitrary order: hyperplanes of symmetries and the realisability condition",
+    "authors": [
+      "L. G. S. Duarte",
+      "L. A. C. P. da Mota"
+    ],
+    "summary": "For a scalar equation $y^{(n)}=\\varphi(x,y,\\dots,y^{(n-1)})$ the $S$-function of the extended Prelle--Singer method is a vector $S=(S_0,\\dots,S_{n-2})$, the null-form vector of Chandrasekar, Senthilvelan, Lakshmanan and collaborators, and the jet gradient of a first integral solves the adjoint of the variational equation. We describe the solutions of the system satisfied by $S$ intrinsically, and determine which of them come from first integrals. Over the field $C$ of first integrals the solutions are exactly the hyperplanes of the $n$-dimensional space $VV$ of symmetry characteristics, recovered from $n-1$ independent characteristics by a Plücker formula; in flow-box coordinates they are the hyperplane fields on the local space of leaves. A solution is the $S$-vector of a first integral if and only if the corresponding hyperplane field is integrable. This Frobenius condition splits into the $S$-system itself plus $\\binom n3$ further differential conditions, so it is vacuous for $n=2$ and a genuine restriction for every $n\\ge3$, for which we give an explicit non-realisable solution. The same picture explains why $λ$-symmetries and $S$-functions coincide only when $n=2$: line fields and hyperplane fields agree only on surfaces. For the computation of $S$ we record that the system is equivalent to one scalar equation for the last component, which is the Riccati form of the adjoint variational equation, and we spell out what this does and does not imply for a rational search.",
+    "link": "https://arxiv.org/abs/2610.40033v1",
+    "published": "2026-10-29T13:36:35Z"
+  },
+  {
+    "title": "Applications of the fixed point theorem for mappings contracting perimeters of triangles: ODEs, PDEs, integer and difference equations",
+    "authors": [
+      "E. Petrov",
+      "R. Salimov",
+      "R. Taranets"
+    ],
+    "summary": "Mappings contracting perimeters of triangles are Banach contractions whenever every point of the underlying metric space is an accumulation point. Consequently, applying the perimeter-contraction theorem on a complete metric space without isolated points yields an existence result already covered by Banach's fixed point theorem. This observation applies, in particular, to operators associated with differential and integral equations acting on standard nontrivial function spaces, such as spaces of continuous functions $C[a,b]$, Lebesgue spaces $L_p$, and Sobolev spaces $W^{k,p}$, equipped with their usual norm metrics. Thus, applications extending beyond Banach's theorem for the same operator and metric require a complete invariant domain containing some number of isolated points. Such a domain may be a closed subset of a standard function space, despite the absence of isolated points in the ambient space. The main goal of this paper is to illustrate applications of the fixed point theorem for mappings contracting perimeters of triangles in settings where the associated operators are not Banach contractions. The differential-equation examples admit interpretations as stylized models combining continuous evolution, nonlocal measurement, and quantized feedback. The integer and difference-equation examples illustrate the effects of rounding on equilibria and periodic responses.",
+    "link": "https://arxiv.org/abs/2610.37644v1",
+    "published": "2026-10-27T17:55:35Z"
+  },
+  {
+    "title": "Multilinear extrapolation on Banach function spaces",
+    "authors": [
+      "Mingming Cao"
+    ],
+    "summary": "We solve an open problem on the multilinear Rubio de Francia extrapolation on Banach function spaces. The first result states that, under the assumption of boundedness of the multisublinear Hardy-Littlewood maximal operator, the multivariable boundedness on Banach function spaces can be extrapolated from some weighted Lebesgue space, including the cases where some exponents may be infinite. Under the same assumption, the second result asserts that if a multilinear operator is bounded on some weighted Lebesgue space, then its compactness can be extrapolated from some unweighted Lebesgue space to Banach function spaces. Our results do not require any convexity or concavity conditions on Banach function spaces. The main ingredients in the proof are a multilinear version of the Rubio de Francia algorithm, a stopping-time argument, convex analysis, and a compactness criterion on Banach function spaces. As applications of extrapolation theorems, we obtain multilinear extrapolation for the boundedness and compactness of commutators on Banach function spaces. These results can be further applied to specific operators, which cover both the full range case including multilinear Calderón-Zygmund operators, multilinear pseudo-differential operators, and bilinear paraproducts, and the limited range case including the bilinear Hilbert transform, multilinear rough singular integrals, and bilinear oscillatory Fourier multipliers.",
+    "link": "https://arxiv.org/abs/2610.35364v1",
+    "published": "2026-10-26T12:52:32Z"
+  },
+  {
     "title": "Dual medial axes in finite-dimensional normed spaces",
     "authors": [
       "Arnaud Durand",
@@ -9,46 +51,5 @@
     "summary": "We study medial axes of nonempty closed sets in finite-dimensional real normed spaces whose norms are $C^1$ away from the origin. Using the differential of the norm, we define the dual $k$-medial axis by requiring the contact covectors associated with nearest points to have affine dimension at least $k-1$. In dimension $n$, we prove that this set is $(n-k+1)$-rectifiable for every $1\\le k\\le n+1$, and hence has Hausdorff dimension at most $n-k+1$. We give a direct geometric proof and characterize the dual medial axes through the superdifferential of the squared distance function, obtaining an alternative proof from a theorem of Alberti, Ambrosio, and Cannarsa on singularities of semiconvex functions. Under the additional assumption of strict convexity, the ordinary and dual medial axes coincide for $k=2,3$, yielding the corresponding rectifiability results for ordinary medial axes. For $k=4$, however, the ordinary rectifiability conclusion can fail even for norms arbitrarily close to Euclidean: we construct norms on $\\mathbb R^3$ with smooth positively curved unit spheres arbitrarily $C^\\infty$-close to the Euclidean sphere, together with four-point sets whose ordinary $4$-medial axes contain nondegenerate line segments.",
     "link": "https://arxiv.org/abs/2610.30878v1",
     "published": "2026-10-22T07:57:19Z"
-  },
-  {
-    "title": "Higher rank spectral projector estimates and a Stein--Tomas restriction theorem",
-    "authors": [
-      "Phillip Harris",
-      "Jiaqi Hou",
-      "Xiaoqi Huang"
-    ],
-    "summary": "Let $X$ be a compact locally symmetric space of noncompact type. We prove sharp upper bounds for the $L^2\\to L^p$ operator norms of spectral projectors for joint eigenfunctions of the full ring of invariant differential operators on $X$. This improves the corresponding result of Marshall, by removing a logarithmic power loss at the critical exponent. Using the same method, we also prove the endpoint case of Mockenhaupt's $(L^2,L^p)$ Fourier restriction theorem.",
-    "link": "https://arxiv.org/abs/2610.29721v1",
-    "published": "2026-10-21T13:30:21Z"
-  },
-  {
-    "title": "On the gradient conjecture at infinity: Finite spherical length for gradient trajectories of definable potentials",
-    "authors": [
-      "Thang Do",
-      "Arnulf Jentzen",
-      "Benno Kuckuck"
-    ],
-    "summary": "We prove that for every open $ U \\subseteq \\mathbb R^n $ the spherical projection of every gradient trajectory $θ(t)$, $t \\geq 0$, of a definable $C^1$-potential $F \\colon U \\to \\mathbb R$ has finite length and, in particular, converges (directional convergence). In other words, every gradient trajectory of a definable $C^1$-potential has finite total angular motion. Here, definable means definable in an arbitrary o-minimal structure expanding the real field. Notably, the gradient trajectory in this result is an arbitrary solution of the gradient flow differential equation (whose solutions may not be unique) with no further assumptions: The gradient trajectory may be unbounded and diverge to infinity or it may be convergent. The established theorem therefore provides affirmative answers to both the gradient conjecture at infinity for definable potentials and the definable Thom gradient conjecture. We apply our theorem to the training of deep neural networks (DNNs) to conclude that, in the case of definable and continuously differentiable activation and loss functions, the spherical projection of the DNN training flow must always converge (directional convergence).",
-    "link": "https://arxiv.org/abs/2610.29211v1",
-    "published": "2026-10-21T05:06:29Z"
-  },
-  {
-    "title": "Spherical harmonics and infinitesimal projective transformations",
-    "authors": [
-      "Yury A. Neretin"
-    ],
-    "summary": "Consider the space of $C^\\infty$-functions on the two-dimensional sphere $S^2$ and its decomposition $\\oplus\\mathcal H_m$ into a direct sum of minimal rotation-invariant spaces. We consider elements of $\\oplus\\mathcal H_m$ as functions of two variables, a nonnegative integer variable $m$ and a complex variable $u$ (a restriction of such function to a set $m=k$ is a polynomial in $u$ of degree $\\le 2k$). The group $\\mathrm{GL}\\,(3,{\\mathbb R})$ of all matrices of order 3 acts on $S^2$, so its Lie algebra acts in $C^\\infty(S^2)$ by differentiations along vector fields. We construct operators in $\\mathcal W^\\infty$ corresponding such differentiations and obtain a collection of differential-difference operators in $\\mathcal W^\\infty$. The expressions include shifts $m\\mapsto m\\pm 2$ and derivatives of order 4 in $u$.",
-    "link": "https://arxiv.org/abs/2610.28320v1",
-    "published": "2026-10-20T14:55:35Z"
-  },
-  {
-    "title": "Invariant pseudo-unitary matrix ensembles and local statistics and conductance fluctuations of the DMPK ensemble",
-    "authors": [
-      "Dong Wang",
-      "Thomas Wolfs"
-    ],
-    "summary": "We consider the DMPK ensemble, which models quantum transport in a disordered wire, and describe its limiting local statistics as the number of particles tends to infinity. In the metallic regime, as well as at crossover I, we obtain sine statistics in the bulk, Bessel statistics at the hard edge and Airy statistics at the soft edge. In the insulating regime, we prove localization around certain explicit deterministic positions with Gaussian fluctuations. This confirms and quantifies the predicted universal and localized behavior in the physics literature. At crossover II, we obtain explicit limiting kernels in the bulk and at both edges, which interpolate between these regimes. The hard edge kernel involves Legendre functions and, to the best of our knowledge, is new, while the bulk and soft edge kernels agree with those derived for the squared singular values of critically scaled products of independent Ginibre matrices. To explain these similarities, we construct a class of invariant pseudo-unitary matrices that is closed under taking products and use it to interpret the DMPK ensemble as the joint density of the spectral variables of a product of such random matrices. More generally, the latter takes the form of a polynomial ensemble of derivative type involving a second order differential operator compatible with the Legendre functions. Finally, we obtain uniform asymptotic expansions of the mean and variance of the conductance and prove that the DMPK ensemble admits universal conductance fluctuations, i.e. the variance of the conductance tends to $1/15$ throughout the whole metallic regime. This again confirms the predictions in the physics literature.",
-    "link": "https://arxiv.org/abs/2610.27532v1",
-    "published": "2026-10-20T02:48:10Z"
   }
 ]
