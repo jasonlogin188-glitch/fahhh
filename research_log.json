@@ -1,55 +1,50 @@
 [
   {
-    "title": "Tangential center problem for planar Hamiltonian differential equations",
+    "title": "Parameter-dependent inhomogeneous boundary-value problems in spaces of continuously differentiable functions",
     "authors": [
-      "M. J. Alvarez",
-      "J. L. Bravo",
-      "L. A. Calderon",
-      "S. Rebollo-Perdomo"
+      "O. M. Atlasiuk",
+      "V. A. Mikhailets"
     ],
-    "summary": "Consider a planar Hamiltonian differential equation with a nondegenerate center at the origin. The Tangential Center Problem asks for a characterization of polynomial perturbations for which the center persists at first order. This problem plays a fundamental role in the study of the center-focus problem. We propose an effective algorithmic approach to the Tangential Center Problem for planar polynomial Hamiltonian differential equations. Using this approach, we obtain a complete solution of the quadratic Tangential Center Problem. We further apply it to a non-generic family of cubic Hamiltonian differential equations containing the planar Hamiltonian Lotka--Volterra equation. For a general cubic polynomial perturbation, we derive necessary and sufficient conditions for the vanishing of the corresponding first Poincaré--Pontryagin--Melnikov function and characterize all tangential centers.",
-    "link": "https://arxiv.org/abs/2610.40311v1",
-    "published": "2026-10-29T15:49:48Z"
+    "summary": "We investigate a broad class of linear inhomogeneous boundary-value problems of order $r$ for systems of ordinary differential equations depending on a parameter $μ$ belonging to an abstract metric space $\\mathcal M$. The solutions belong to the spaces of continuously differentiable vector-valued functions $(C^{(n+r)})^m$, $n\\in\\mathbb{N}\\cup\\{0\\}$, $m, r \\in \\mathbb{N}$. The boundary conditions have the most general form $By=c$, where $B$ is an arbitrary continuous linear operator from $(C^{(n+r)})^m$ to $\\mathbb{C}^{rm}$. Thus, they may contain derivatives of the unknown vector-valued function of integer and/or fractional orders up to $n+r$ inclusive. We establish necessary and sufficient conditions for the continuous dependence of solutions on the parameter $μ$. Furthermore, we prove that the solutions of the original problems can be approximated in the space $(C^{(n+r)})^m$ by solutions of systems of ordinary differential equations with polynomial coefficients, polynomial right-hand sides, and multipoint boundary conditions, where the approximating problems are constructed independently of the right-hand sides of the original problem.",
+    "link": "https://arxiv.org/abs/2611.07991v1",
+    "published": "2026-11-05T13:16:55Z"
   },
   {
-    "title": "The S-function at arbitrary order: hyperplanes of symmetries and the realisability condition",
+    "title": "A general framework for universal bounds on the analytic functional calculus",
     "authors": [
-      "L. G. S. Duarte",
-      "L. A. C. P. da Mota"
+      "Mihai Putinar",
+      "Georgios Tsikalas"
     ],
-    "summary": "For a scalar equation $y^{(n)}=\\varphi(x,y,\\dots,y^{(n-1)})$ the $S$-function of the extended Prelle--Singer method is a vector $S=(S_0,\\dots,S_{n-2})$, the null-form vector of Chandrasekar, Senthilvelan, Lakshmanan and collaborators, and the jet gradient of a first integral solves the adjoint of the variational equation. We describe the solutions of the system satisfied by $S$ intrinsically, and determine which of them come from first integrals. Over the field $C$ of first integrals the solutions are exactly the hyperplanes of the $n$-dimensional space $VV$ of symmetry characteristics, recovered from $n-1$ independent characteristics by a Plücker formula; in flow-box coordinates they are the hyperplane fields on the local space of leaves. A solution is the $S$-vector of a first integral if and only if the corresponding hyperplane field is integrable. This Frobenius condition splits into the $S$-system itself plus $\\binom n3$ further differential conditions, so it is vacuous for $n=2$ and a genuine restriction for every $n\\ge3$, for which we give an explicit non-realisable solution. The same picture explains why $λ$-symmetries and $S$-functions coincide only when $n=2$: line fields and hyperplane fields agree only on surfaces. For the computation of $S$ we record that the system is equivalent to one scalar equation for the last component, which is the Riccati form of the adjoint variational equation, and we spell out what this does and does not imply for a rational search.",
-    "link": "https://arxiv.org/abs/2610.40033v1",
-    "published": "2026-10-29T13:36:35Z"
+    "summary": "We establish a general principle for bounding the matrix-valued analytic functional calculus $F\\mapsto F(T)$ of a Hilbert space operator $T$, independently of the matrix size. It rests on two properties of an auxiliary Hilbert space of holomorphic functions: the accretivity of its moment map at $T$ and a uniform bound for its multipliers. The mechanism of OpenAI's direct proof of the complete Crouzeix conjecture is the instance in which these properties come from the positivity of the double-layer potential and from norm estimates for Faber series of a convex domain. The main advantage of our method is that the auxiliary space can be chosen freely, to fit the class of operators, and a well-chosen space can give sharp constants, also on domains that are not convex, simply connected or bounded. On every intersection of two disks of the Riemann sphere, for operators with both closed disks as spectral sets, we obtain a complete bound independent of the two disks, which is sharp for the quantum annulus and the strip. For operators, bounded or m-sectorial, with numerical range in a sector, our bounds improve on the complete Crouzeix inequality for every opening; they are optimal for the right angle, answering a question of Crouzeix, and nearly optimal for acute angles. On Jordan domains with regular real-analytic boundary, a space built from the exterior conformal map and the Faber polynomials of the domain gives complete bounds for operators whose double-layer potential is bounded below. They are optimal for the disk, recover the complete Crouzeix inequality on convex domains, and improve on earlier bounds, including bounds of Crouzeix and Greenbaum, also on nonconvex domains.",
+    "link": "https://arxiv.org/abs/2611.01503v1",
+    "published": "2026-11-01T03:36:51Z"
   },
   {
-    "title": "Applications of the fixed point theorem for mappings contracting perimeters of triangles: ODEs, PDEs, integer and difference equations",
+    "title": "Coefficientwise Hankel-total positivity from a universal cumulant lifting",
     "authors": [
-      "E. Petrov",
-      "R. Salimov",
-      "R. Taranets"
+      "Bao-Xuan Zhu"
     ],
-    "summary": "Mappings contracting perimeters of triangles are Banach contractions whenever every point of the underlying metric space is an accumulation point. Consequently, applying the perimeter-contraction theorem on a complete metric space without isolated points yields an existence result already covered by Banach's fixed point theorem. This observation applies, in particular, to operators associated with differential and integral equations acting on standard nontrivial function spaces, such as spaces of continuous functions $C[a,b]$, Lebesgue spaces $L_p$, and Sobolev spaces $W^{k,p}$, equipped with their usual norm metrics. Thus, applications extending beyond Banach's theorem for the same operator and metric require a complete invariant domain containing some number of isolated points. Such a domain may be a closed subset of a standard function space, despite the absence of isolated points in the ambient space. The main goal of this paper is to illustrate applications of the fixed point theorem for mappings contracting perimeters of triangles in settings where the associated operators are not Banach contractions. The differential-equation examples admit interpretations as stylized models combining continuous evolution, nonlocal measurement, and quantized feedback. The integer and difference-equation examples illustrate the effects of rounding on equilibria and periodic responses.",
-    "link": "https://arxiv.org/abs/2610.37644v1",
-    "published": "2026-10-27T17:55:35Z"
+    "summary": "Using probabilistic methods, we establish universal cumulant lifting criteria for Stieltjes and Hamburger moment sequences. In the Stieltjes case, we characterize coefficientwise Hankel total positivity after convolution with every initial moment sequence by requiring each once-shifted cumulant sequence to be Stieltjes. We also prove equivalence with the numerical moment property at every nonnegative intensity. In the Hamburger case, we use twice-shifted cumulants to obtain coefficientwise-positive leading Hankel determinants, a degree bound, an explicit highest-degree component, and drift invariance. We work with formal series and require neither exponential moments nor moment determinacy. We establish composition, binomial-convolution, and substitution results, and apply them to implicit equations and autonomous differential equations, tree and forest families, and lognormal compound-Poisson moments in a unified approach. From known moment sequences, we obtain general coefficientwise Hankel-totally positive families containing the classical Bessel, Lah, and Laguerre polynomials. We not only give new proofs of coefficientwise Hankel-total positivity of many combinatorial polynomials, but also prove coefficientwise Hankel total positivity for the component polynomials of functional digraphs confirming a conjecture of Sokal and establish fixed-shape Schläfli--Gessel--Seo polynomials positivity supporting another conjecture of Sokal.",
+    "link": "https://arxiv.org/abs/2611.01172v1",
+    "published": "2026-10-31T18:18:57Z"
   },
   {
-    "title": "Multilinear extrapolation on Banach function spaces",
+    "title": "Some Characterisations of the Strichartz Fourier Transform on the Heisenberg Group",
     "authors": [
-      "Mingming Cao"
+      "R. Lakshmi Lavanya"
     ],
-    "summary": "We solve an open problem on the multilinear Rubio de Francia extrapolation on Banach function spaces. The first result states that, under the assumption of boundedness of the multisublinear Hardy-Littlewood maximal operator, the multivariable boundedness on Banach function spaces can be extrapolated from some weighted Lebesgue space, including the cases where some exponents may be infinite. Under the same assumption, the second result asserts that if a multilinear operator is bounded on some weighted Lebesgue space, then its compactness can be extrapolated from some unweighted Lebesgue space to Banach function spaces. Our results do not require any convexity or concavity conditions on Banach function spaces. The main ingredients in the proof are a multilinear version of the Rubio de Francia algorithm, a stopping-time argument, convex analysis, and a compactness criterion on Banach function spaces. As applications of extrapolation theorems, we obtain multilinear extrapolation for the boundedness and compactness of commutators on Banach function spaces. These results can be further applied to specific operators, which cover both the full range case including multilinear Calderón-Zygmund operators, multilinear pseudo-differential operators, and bilinear paraproducts, and the limited range case including the bilinear Hilbert transform, multilinear rough singular integrals, and bilinear oscillatory Fourier multipliers.",
-    "link": "https://arxiv.org/abs/2610.35364v1",
-    "published": "2026-10-26T12:52:32Z"
+    "summary": "Recently, Thangavelu introduced the Strichartz Fourier transform on the Heisenberg group. Around the same time, Krukowski characterised the classical Fourier transform on various settings, assuming a priori that the map is an integral transform, based on structural properties and a normalisation. In this paper, we obtain analogous results for the Strichartz Fourier transform, without assuming the characterised map is an integral transform. The spectral property is formulated jointly for the sublaplacian and central vector field, and the translation property uses a twisted form of left translation. The joint spectral property, the twisted translation property and a normalisation at one explicit test function, together characterise the transform on each ray of the Heisenberg fan. The twisted translation property, paired with a Dirac delta property, gives another characterisation. We characterise the radial kernel on each ray by a Laguerre-type differential equation. This gives a characterisation of the Hankel transform.",
+    "link": "https://arxiv.org/abs/2611.01128v2",
+    "published": "2026-10-31T17:16:33Z"
   },
   {
-    "title": "Dual medial axes in finite-dimensional normed spaces",
+    "title": "A dual approach to $L^p$ estimates for orthogonal martingales satisfying the differential subordination",
     "authors": [
-      "Arnaud Durand",
-      "Xiangyu Liang",
-      "Sicheng Zhang"
+      "Rodrigo Bañuelos",
+      "Adam Osękowski"
     ],
-    "summary": "We study medial axes of nonempty closed sets in finite-dimensional real normed spaces whose norms are $C^1$ away from the origin. Using the differential of the norm, we define the dual $k$-medial axis by requiring the contact covectors associated with nearest points to have affine dimension at least $k-1$. In dimension $n$, we prove that this set is $(n-k+1)$-rectifiable for every $1\\le k\\le n+1$, and hence has Hausdorff dimension at most $n-k+1$. We give a direct geometric proof and characterize the dual medial axes through the superdifferential of the squared distance function, obtaining an alternative proof from a theorem of Alberti, Ambrosio, and Cannarsa on singularities of semiconvex functions. Under the additional assumption of strict convexity, the ordinary and dual medial axes coincide for $k=2,3$, yielding the corresponding rectifiability results for ordinary medial axes. For $k=4$, however, the ordinary rectifiability conclusion can fail even for norms arbitrarily close to Euclidean: we construct norms on $\\mathbb R^3$ with smooth positively curved unit spheres arbitrarily $C^\\infty$-close to the Euclidean sphere, together with four-point sets whose ordinary $4$-medial axes contain nondegenerate line segments.",
-    "link": "https://arxiv.org/abs/2610.30878v1",
-    "published": "2026-10-22T07:57:19Z"
+    "summary": "We develop a new dual approach, which can be used to establish sharp $L^p$ bounds for orthogonal differentially subordinate martingales. The method rests on the construction of a certain special function enjoying appropriate majorization properties and a novel differential condition.",
+    "link": "https://arxiv.org/abs/2611.00932v1",
+    "published": "2026-10-31T13:32:27Z"
   }
 ]
