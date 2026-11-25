@@ -1,50 +1,52 @@
 [
   {
-    "title": "Parameter-dependent inhomogeneous boundary-value problems in spaces of continuously differentiable functions",
+    "title": "Sub-Riemannian Distances on Lie Groups: Tangent Asymptotics and Hermitian Matrix Formulas",
     "authors": [
-      "O. M. Atlasiuk",
-      "V. A. Mikhailets"
+      "Wolfram Bauer",
+      "Zhicheng Han",
+      "Zhipeng Yang"
     ],
-    "summary": "We investigate a broad class of linear inhomogeneous boundary-value problems of order $r$ for systems of ordinary differential equations depending on a parameter $μ$ belonging to an abstract metric space $\\mathcal M$. The solutions belong to the spaces of continuously differentiable vector-valued functions $(C^{(n+r)})^m$, $n\\in\\mathbb{N}\\cup\\{0\\}$, $m, r \\in \\mathbb{N}$. The boundary conditions have the most general form $By=c$, where $B$ is an arbitrary continuous linear operator from $(C^{(n+r)})^m$ to $\\mathbb{C}^{rm}$. Thus, they may contain derivatives of the unknown vector-valued function of integer and/or fractional orders up to $n+r$ inclusive. We establish necessary and sufficient conditions for the continuous dependence of solutions on the parameter $μ$. Furthermore, we prove that the solutions of the original problems can be approximated in the space $(C^{(n+r)})^m$ by solutions of systems of ordinary differential equations with polynomial coefficients, polynomial right-hand sides, and multipoint boundary conditions, where the approximating problems are constructed independently of the right-hand sides of the original problem.",
-    "link": "https://arxiv.org/abs/2611.07991v1",
-    "published": "2026-11-05T13:16:55Z"
+    "summary": "Let $d_{\\mathrm{SR}}$ be the Carnot--Carathéodory distance associated with a two-step Lie pair and let $d_0$ be the distance on its nilpotent tangent group. For compact Lie pairs we prove, locally uniformly in $(X,Z)$, \\[ d_{\\mathrm{SR}}\\!\\left(e,\\exp(rX+r^2Z)\\right)^2 =r^2d_0(e,(X,Z))^2+O(r^3). \\] For symmetric pairs, the remainder improves to $O(r^4)$. This order is sharp in general, and the estimate remains uniform at cut points, abnormal endpoints, and points where the tangent endpoint map changes rank. If the tangent minimizer is unique, the endpoint differential is onto, and the constrained Hessian is coercive, we determine the coefficient of $r^4$ with remainder $O(r^6)$. For block subgroups of $\\mathrm{SU}(N)$, we express the vertical squared distance on the tangent group as the attained minimum of a finite-dimensional functional on Hermitian matrices subject to linear constraints on their partial traces. Every minimizer gives a minimizing loop represented by a trigonometric polynomial. For one $m$-dimensional block and $q$ scalar blocks, the coefficient has weights $\\lceil j/q\\rceil$ and reduces to a trace norm formula when $q\\ge\\lfloor m/2\\rfloor$.",
+    "link": "https://arxiv.org/abs/2611.31447v1",
+    "published": "2026-11-23T19:24:02Z"
   },
   {
-    "title": "A general framework for universal bounds on the analytic functional calculus",
+    "title": "Rational extensions of the Ornstein-Uhlenbeck process",
     "authors": [
-      "Mihai Putinar",
-      "Georgios Tsikalas"
+      "Alexey Kuznetsov",
+      "Minjian Yuan"
     ],
-    "summary": "We establish a general principle for bounding the matrix-valued analytic functional calculus $F\\mapsto F(T)$ of a Hilbert space operator $T$, independently of the matrix size. It rests on two properties of an auxiliary Hilbert space of holomorphic functions: the accretivity of its moment map at $T$ and a uniform bound for its multipliers. The mechanism of OpenAI's direct proof of the complete Crouzeix conjecture is the instance in which these properties come from the positivity of the double-layer potential and from norm estimates for Faber series of a convex domain. The main advantage of our method is that the auxiliary space can be chosen freely, to fit the class of operators, and a well-chosen space can give sharp constants, also on domains that are not convex, simply connected or bounded. On every intersection of two disks of the Riemann sphere, for operators with both closed disks as spectral sets, we obtain a complete bound independent of the two disks, which is sharp for the quantum annulus and the strip. For operators, bounded or m-sectorial, with numerical range in a sector, our bounds improve on the complete Crouzeix inequality for every opening; they are optimal for the right angle, answering a question of Crouzeix, and nearly optimal for acute angles. On Jordan domains with regular real-analytic boundary, a space built from the exterior conformal map and the Faber polynomials of the domain gives complete bounds for operators whose double-layer potential is bounded below. They are optimal for the disk, recover the complete Crouzeix inequality on convex domains, and improve on earlier bounds, including bounds of Crouzeix and Greenbaum, also on nonconvex domains.",
-    "link": "https://arxiv.org/abs/2611.01503v1",
-    "published": "2026-11-01T03:36:51Z"
+    "summary": "We introduce and classify rational extensions of the Ornstein-Uhlenbeck process that are solvable by polynomials. These diffusions are closely related to exceptional Hermite polynomials and rational extensions of the quantum harmonic oscillator. We obtain explicit formulas for their transition densities, fundamental solutions and Green functions. We also show that each such diffusion can be constructed from killed Brownian motion by a finite sequence of Darboux transformations followed by a Doob $h$-transform. Finally, we derive an explicit formula for the connection polynomials in the generalized Mehler formula and use it to prove several conjectures concerning these polynomials.",
+    "link": "https://arxiv.org/abs/2611.31075v1",
+    "published": "2026-11-23T17:28:14Z"
   },
   {
-    "title": "Coefficientwise Hankel-total positivity from a universal cumulant lifting",
+    "title": "Two-Dimensional Local Smoothing in Noncommutative Spaces and Its Applications",
     "authors": [
-      "Bao-Xuan Zhu"
+      "Xudong Lai",
+      "Siyu Liu"
     ],
-    "summary": "Using probabilistic methods, we establish universal cumulant lifting criteria for Stieltjes and Hamburger moment sequences. In the Stieltjes case, we characterize coefficientwise Hankel total positivity after convolution with every initial moment sequence by requiring each once-shifted cumulant sequence to be Stieltjes. We also prove equivalence with the numerical moment property at every nonnegative intensity. In the Hamburger case, we use twice-shifted cumulants to obtain coefficientwise-positive leading Hankel determinants, a degree bound, an explicit highest-degree component, and drift invariance. We work with formal series and require neither exponential moments nor moment determinacy. We establish composition, binomial-convolution, and substitution results, and apply them to implicit equations and autonomous differential equations, tree and forest families, and lognormal compound-Poisson moments in a unified approach. From known moment sequences, we obtain general coefficientwise Hankel-totally positive families containing the classical Bessel, Lah, and Laguerre polynomials. We not only give new proofs of coefficientwise Hankel-total positivity of many combinatorial polynomials, but also prove coefficientwise Hankel total positivity for the component polynomials of functional digraphs confirming a conjecture of Sokal and establish fixed-shape Schläfli--Gessel--Seo polynomials positivity supporting another conjecture of Sokal.",
-    "link": "https://arxiv.org/abs/2611.01172v1",
-    "published": "2026-10-31T18:18:57Z"
+    "summary": "We prove local smoothing for planar half-waves with coefficients in a semifinite tracial von Neumann algebra $M$. For $N\\ge2$ and $P_N=ψ(|D|/N)$ with $ψ\\in C_c^\\infty((1/2,2))$, we obtain $\\|e^{it|D|}P_N f\\|_{L^4([1,2]\\times\\mathbb{R}^2;L^4(M))}\\le C_ψ\\sqrt{\\log(2+N)}\\|f\\|_{L^4(\\mathbb{R}^2;L^4(M))}$ uniformly in $M$ and its trace. Pairing the Dirichlet energies for $M$ and its opposite algebra cancels a determinant contribution that can have either sign. At $p=4$, summation over frequency annuli gives local smoothing for every Sobolev order $s>0$. Interpolating the annular estimates before summation gives spacetime $L^p$ bounds for $2\\le p\\le\\infty$ and Sobolev orders $s>σ(p)=\\max\\{0,1/2-2/p\\}$, as well as logarithmically weighted bounds at $s=σ(p)$ for $2<p<\\infty$. The finite-$p$ bounds transfer to quantum tori and generalized Moyal planes, answering the question of Hong, Lai and Wang about the range $s>σ(p)$ for $2<p<\\infty$ on generalized Moyal planes. For $1<p<\\infty$ and complex $α$ with $\\operatorname{Re}α>\\max\\{2/p-1,1/p-1/2,-1/p\\}$, we prove maximal inequalities over all radii for generalized circular means on the plane, quantum tori and generalized Moyal planes. For an action $β$ of $\\mathbb{R}^2$ on $M$ by normal trace-preserving $*$-automorphisms with norm-continuous $L^p$ orbits, the orbit mean $A_{t,β}^αx$ converges bilaterally almost uniformly to $πx/Γ(1+α)$ as $t\\downarrow0$ for every $x\\in L^p(M)$. We also obtain estimates for truncated cone multipliers on three-dimensional Euclidean and quantum Euclidean spaces, and full-radius row and column bounds for Stein's square function on the plane, quantum tori and generalized Moyal planes.",
+    "link": "https://arxiv.org/abs/2611.30520v1",
+    "published": "2026-11-23T11:38:03Z"
   },
   {
-    "title": "Some Characterisations of the Strichartz Fourier Transform on the Heisenberg Group",
+    "title": "Differential equations for Macdonald's hypergeometric series via Dunkl operators of type A",
     "authors": [
-      "R. Lakshmi Lavanya"
+      "Fan Liu"
     ],
-    "summary": "Recently, Thangavelu introduced the Strichartz Fourier transform on the Heisenberg group. Around the same time, Krukowski characterised the classical Fourier transform on various settings, assuming a priori that the map is an integral transform, based on structural properties and a normalisation. In this paper, we obtain analogous results for the Strichartz Fourier transform, without assuming the characterised map is an integral transform. The spectral property is formulated jointly for the sublaplacian and central vector field, and the translation property uses a twisted form of left translation. The joint spectral property, the twisted translation property and a normalisation at one explicit test function, together characterise the transform on each ray of the Heisenberg fan. The twisted translation property, paired with a Dirac delta property, gives another characterisation. We characterise the radial kernel on each ray by a Laguerre-type differential equation. This gives a characterisation of the Hankel transform.",
-    "link": "https://arxiv.org/abs/2611.01128v2",
-    "published": "2026-10-31T17:16:33Z"
+    "summary": "We solve an eigenvalue problem for a family of trigonometric Dunkl operators depending on a parameter, extending the result of Ref.[16] to the case of a general parameter. We introduce families of nonsymmetric W-type operators closely related to Dunkl operators and analyze their algebraic structure, various representations and symmetrization. We then use these operators to characterize non-symmetric Macdonald's hypergeometric series introduced in Ref.[5] and recover several known results. These results suggest a direct connection between Macdonald's hypergeometric series and Dunkl operators.",
+    "link": "https://arxiv.org/abs/2611.29289v1",
+    "published": "2026-11-22T07:20:50Z"
   },
   {
-    "title": "A dual approach to $L^p$ estimates for orthogonal martingales satisfying the differential subordination",
+    "title": "Vector Lyapunov-Krasovsky functionals, higher derivatives of Lyapunov-Krasovsky functionals and boundedness of solutions of functional-differential equations of retarded type",
     "authors": [
-      "Rodrigo Bañuelos",
-      "Adam Osękowski"
+      "K. S. Lapin",
+      "S. V. Lapin"
     ],
-    "summary": "We develop a new dual approach, which can be used to establish sharp $L^p$ bounds for orthogonal differentially subordinate martingales. The method rests on the construction of a certain special function enjoying appropriate majorization properties and a novel differential condition.",
-    "link": "https://arxiv.org/abs/2611.00932v1",
-    "published": "2026-10-31T13:32:27Z"
+    "summary": "In present paper, for functional-differential equations of retarded type, the method of vector Lyapunov-Krasovsky functionals and the method of higher derivatives of Lyapunov-Krasovsky functionals are developed. On the basis of this methods, sufficient conditions for various types of uniform boundedness of solutions and sufficient conditions for various types of ultimate-uniform boundedness of solutions are obtained.",
+    "link": "https://arxiv.org/abs/2611.28714v1",
+    "published": "2026-11-21T10:17:16Z"
   }
 ]
